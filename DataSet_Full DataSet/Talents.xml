@@ -730,7 +730,7 @@
   <Talent>
     <Key>FULLTHIMP</Key>
     <Name>Full Throttle (Improved)</Name>
-    <Description>Suffer 1 strain to attempt Full Throttle as a maneuver and decrease its difficultly to [B]Average ([DI][DI])[b].</Description>
+    <Description>Suffer 1 strain to attempt Full Throttle as a maneuver and decrease its difficulty to [B]Average ([DI][DI])[b].</Description>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <SkillChoice>
@@ -2229,7 +2229,7 @@
   </Talent>
   <Talent>
     <Key>SHORTCUT</Key>
-    <Name>Short Cut</Name>
+    <Name>Shortcut</Name>
     <Description>During a chase; add [BO] per rank in Shortcut to any checks made to catch or escape an opponent.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -2903,7 +2903,7 @@
   <Talent>
     <Key>CONGENIAL</Key>
     <Name>Congenial</Name>
-    <Description>May suffer a number of strain to downgrade difficulty of Charm or Negotiation checks or upgrade difficulty when target by Charm or Negotiation checks, by an equal number Strain suffered this way cannot exceed ranks in Congenial.</Description>
+    <Description>May suffer a number of strain to downgrade difficulty of Charm or Negotiation checks or upgrade difficulty when targeted by Charm or Negotiation checks, by an equal number. Strain suffered this way cannot exceed ranks in Congenial.</Description>
     <Sources>
       <Source>Far Horizons</Source>
       <Source>Fly Casual</Source>
@@ -4847,7 +4847,7 @@
   <Talent>
     <Key>HEALTRANCEIMP</Key>
     <Name>Healing Trance (Improved)</Name>
-    <Description>When healing wounds due to Healing Trance, make a Resilience check to heal a Critical Injury. Difficulty of the check equals severity of the Critical Injurt.</Description>
+    <Description>When healing wounds due to Healing Trance, make a Resilience check to heal a Critical Injury. Difficulty of the check equals severity of the Critical Injury.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6352,7 +6352,7 @@
   <Talent>
     <Key>SPKBINIMP</Key>
     <Name>Improved Speaks Binary</Name>
-    <Description>When directing NPC droids, those droids grand additional [BO] in addition to other benefits.
+    <Description>When directing NPC droids, those droids grant additional [BO] in addition to other benefits.
 </Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -6628,7 +6628,7 @@
   <Talent>
     <Key>CUNNSNARE</Key>
     <Name>Cunning Snare</Name>
-    <Description>Once per encounter as an action, amy create a trap. Any other character who moves to engaged range of the trap must make an [B]Opposed Vigilance vs. Survival check[b] to avoid harm and ill effects.</Description>
+    <Description>Once per encounter as an action, may create a trap. Any other character who moves to engaged range of the trap must make an [B]Opposed Vigilance vs. Survival check[b] to avoid harm and ill effects.</Description>
     <Source Page="34">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -6755,7 +6755,7 @@
   <Talent>
     <Key>BETTERLUCK</Key>
     <Name>Better Luck Next Time</Name>
-    <Description>Take a Better Luck Next Tiem action; make a [B]Hard([DI][DI][DI]) Cool check[b] to force a competitor to suffer a major misfortune.</Description>
+    <Description>Take a Better Luck Next Time action; make a [B]Hard([DI][DI][DI]) Cool check[b] to force a competitor to suffer a major misfortune.</Description>
     <Source Page="30">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -6943,7 +6943,7 @@
   <Talent>
     <Key>OFFDRIVE</Key>
     <Name>Offensive Driving</Name>
-    <Description>As a maneuver, suffer system strain up to vehicle's highest defense to upgrade the difficulty of traget's next Piloting check that many times.</Description>
+    <Description>As a maneuver, suffer system strain up to vehicle's highest defense to upgrade the difficulty of target's next Piloting check that many times.</Description>
     <Source Page="35">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
@@ -6971,7 +6971,7 @@
   <Talent>
     <Key>ANIMALBONDIMP</Key>
     <Name>Animal Bond (Improved)</Name>
-    <Description>When spending a maneuver to direct a bonded animal, the character may suffer 1 strain to add [BO] to the animals next check.
+    <Description>When spending a maneuver to direct a bonded animal, the character may suffer 1 strain to add [BO] to the animal's next check.
     </Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -7061,7 +7061,7 @@
   <Talent>
     <Key>MOUNTFLY</Key>
     <Name>Flyer</Name>
-    <Description>This mount can fly.  When on the ground, it's Speed is reduced to 1. </Description>
+    <Description>This mount can fly. When on the ground, its Speed is reduced to 1. </Description>
     <Source Page="85">Stay on Target</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -7225,7 +7225,7 @@
   <Talent>
     <Key>MINDBLEED</Key>
     <Name>Mind Bleed</Name>
-    <Description>When attacked, the character may choose to suffer strain no greater than the number of wounds suffered from the attack. If he does so, the attacker then suffers a number of wounds equal to the strain suffered by the chartacter.</Description>
+    <Description>When attacked, the character may choose to suffer strain no greater than the number of wounds suffered from the attack. If he does so, the attacker then suffers a number of wounds equal to the strain suffered by the character.</Description>
     <Sources>
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
@@ -8210,7 +8210,7 @@
   <Talent>
     <Key>KNOWROPES</Key>
     <Name>Knows the Ropes</Name>
-    <Description>Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies withing short range.</Description>
+    <Description>Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies within short range.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -10182,7 +10182,7 @@
   <Talent>
     <Key>BARREL</Key>
     <Name>Barrel Roll</Name>
-    <Description>When piloting a vehicle of sihouette 3 or less, when hit by an attack, suffer 3 system strain to reduce damage of one hit by ranks in Piloting.</Description>
+    <Description>When piloting a vehicle of silhouette 3 or less, when hit by an attack, suffer 3 system strain to reduce damage of one hit by ranks in Piloting.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -10193,7 +10193,7 @@
   <Talent>
     <Key>BARRELIMP</Key>
     <Name>Barrel Roll (Improved)</Name>
-    <Description>When the character takes the Barrel Roll incidental, reduce the damage of all hits of the ttack by ranks in Piloting.</Description>
+    <Description>When the character takes the Barrel Roll incidental, reduce the damage of all hits of the attack by ranks in Piloting.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -10204,7 +10204,7 @@
   <Talent>
     <Key>BARRELSUP</Key>
     <Name>Barrel Roll (Supreme)</Name>
-    <Description>When using Barrel Roll against certain weapons, may spend [DE] or [TH][TH][TH] to inflict one hit on an enemy vehicle within close rankge, dealing base damage of the original attack.</Description>
+    <Description>When using Barrel Roll against certain weapons, may spend [DE] or [TH][TH][TH] to inflict one hit on an enemy vehicle within close range, dealing base damage of the original attack.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
