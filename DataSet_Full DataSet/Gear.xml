@@ -6534,7 +6534,7 @@ Critical Injury, but instead of rolling on the Critical Injury Result table, the
     <Name>WJ-880 Blinding Helmet</Name>
     <Description>
       [H3]WJ-880 Blinding Helmet[h3]
-[P]In the days of the former Republic and the Jedi Order, the WJ-880 blinding helmet was a common training aid for a Jedi Padawan, helping the aspirant to learn to sense the Force flowing through all things by cutting out sensory distractions. The helmet opaque shield prevents the wearers from relying on sight: instead, they must use their instincts. Of course, these devices are not particularly practical for combat, but they can be exceptionally useful to anyone trying to train in the ways of the Force. As artifacts of the Jedi Order, these devices are contraband, but they are hardly so obvious as a lightsaber, and so a number of them have passed into vicilian hands. Force sensitives in this era can acquire them with far less difficulty than most Jedi relics, or they can even make their own facsimiles using basic supplies.
+[P]In the days of the former Republic and the Jedi Order, the WJ-880 blinding helmet was a common training aid for a Jedi Padawan, helping the aspirant to learn to sense the Force flowing through all things by cutting out sensory distractions. The helmet opaque shield prevents the wearers from relying on sight: instead, they must use their instincts. Of course, these devices are not particularly practical for combat, but they can be exceptionally useful to anyone trying to train in the ways of the Force. As artifacts of the Jedi Order, these devices are contraband, but they are hardly so obvious as a lightsaber, and so a number of them have passed into civilian hands. Force sensitives in this era can acquire them with far less difficulty than most Jedi relics, or they can even make their own facsimiles using basic supplies.
 [P]A character wearing a WJ-880 blinding helmet adds [SE][SE][SE] to Combat checks (and any other checks that rely on sight). At the GM's discretion, training while wearing such a helmet might help a character to develop his perception of the Force that shapes and guides the universe around him.     </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -6758,7 +6758,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
       [H3]Luma Flare[h3]
 [P]Luma flares are rocket propelled illumination devices commonly used by both militaries and survivalists. Luma flares excel at illuminating dark areas, as their detonation spreads a luminous compound over a wide blast area. They are also popular as signaling devices, especially when used to attract the attention of search and rescue teams.
 [P]Each luma flare is a self contained device with limited guidance capability. The flare's simple controls allow the user to guide its rough trajectory, as well as to adjust the blast's detonation point based on the desired altitude. A safety is included, which generally prevents the flare from igniting before the rocket reaches its destination.
-[P]As an action, a character may make an [B]Easy (DI) Gunnery check[b] to launch a luma flare into the air to provide light. If he succeeds and the flare has room to travel into the air, he flare completely illuminates an area out to long range from the location it was fired. If he fails or does not have room to fire it, the flare still ignites, but does not travel into the air. Instead it remains at ground level, illuminating an area out to short range. Whether he succeeds or fails, the flare's illumination continues for five rounds, after which time it burns out.
+[P]As an action, a character may make an [B]Easy (DI) Gunnery check[b] to launch a luma flare into the air to provide light. If he succeeds and the flare has room to travel into the air, the flare completely illuminates an area out to long range from the location it was fired. If he fails or does not have room to fire it, the flare still ignites, but does not travel into the air. Instead it remains at ground level, illuminating an area out to short range. Whether he succeeds or fails, the flare's illumination continues for five rounds, after which time it burns out.
 [P]Though Luma flares are not designed as weapons, creative characters can nonetheless use them as such. They are extremely hard to aim, but the mere prospect of being struck with one will cause many foes to reconsider attacking. They have the following profile as a weapon: luma flare (Gunnery) Damage 6, Critical 3, Range Long, Blast 4, Burn 4, Disorient 2, Inaccurate 2, Prepare 2, Limited Ammo 1.
     </Description>
     <Source>Keeping the Peace</Source>
@@ -6802,7 +6802,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
     <Description>
       [H3]Escape Circuit[h3]
 
-Many free droids find the notion of being placed back into servitude intolerable. While some worlds have laws preventing a free droid from being subjected to a restraining bold, many more do not, and criminals rarely let the law get in their way regardless. Most droids concerned about this fate simply resolve to never be caught in a situation where a restraining bolt could be applied, but some turn to trusted Droid Techs to get an escape circuit installed. These internal systems function similarly to cybernetics with the capacity to resist and even overload restraining bolts through concentrated effort.
+Many free droids find the notion of being placed back into servitude intolerable. While some worlds have laws preventing a free droid from being subjected to a restraining bolt, many more do not, and criminals rarely let the law get in their way regardless. Most droids concerned about this fate simply resolve to never be caught in a situation where a restraining bolt could be applied, but some turn to trusted Droid Techs to get an escape circuit installed. These internal systems function similarly to cybernetics with the capacity to resist and even overload restraining bolts through concentrated effort.
 
 [P]An escape circuit is a cybernetic implant that can only be installed in droids. A droid installed with an escape circuit can resist a restraining bolt with an [B]Easy ([DI]) Discipline check[b] instead of the normal difficulty (see page 178 of the [B]Edge of The Empire[b] Core Rulebook). The droid may spend [AD][AD] from a check made to resist a restraining bolt to overload the bolt, rendering it entirely useless.
     </Description>
@@ -6906,8 +6906,7 @@ Whereas most citizens of other planets may believe the Force to be but a legend,
 [P]Hand sewn into a cloth binding, some eight dozen gathers of parchment form 386 closely lined pages. The source of the parchment is a minor mystery among the many that surround the Grimoire. Though the Grimoire was clearly prepared in the manner traditional on Weik—from animal skins flayed, soaked, and stretched on frames—the green- gray color of its pages suggests that the skins used were not those of any animal known to the planet. Neither is the luminous ink used in scribbling the pages of a formula replicated in any other known Weik-produced book, whether “magical” or not.
 [P]The effect of the glowing amber ink against the background of gray and green would have offered a challenging reading experience even if Syclos the Lame—if she was in fact the scribe—had been an accomplished calligrapher. Unfortunately, whoever penned what have been called the book’s “mad ravings” was far more concerned with utilizing every square centimeter of available space than with legibility. It has been estimated that the Grimoire of Syclos the Lame contains more than a half-million individual words, whereas books of similar provenance and size usually contain around two hundred thousand, even when they are not so liberally embellished as the Grimoire.
 [P]It is those embellishments—or rather, their many reproductions—that have given this tome its fame on Weik. Taking the form of creatures out of nightmare, the capital letters heading each page are hollow-eyed, many-limbed monsters, rendered in glowing ink that seems to cause them to move on the page. No figure is repeated across the Grimoire’s pages, yielding a fiendish menagerie of beasts that would give pause even to far-traveled big game hunters of the wider galaxy. The Beasts of Syclos, as they are popularly known, may be found copied in many other volumes, and they have even been rendered in stone as rain-spouting gargoyles on Weik’s cathedrals and castles. Large mock versions of the creatures crafted from paper and daub are carried aloft on wooden poles through Weik’s villages. This occurs at sunset on the autumnal equinox, in a celebration known as the Feast of Worms.
-[P]But for all its local fame, the Grimoire has been little studied by the sages of Weik. The peculiarities of its production and the nigh-indecipherable scrawl of its scribbling would be daunting enough, but Weik is a place where legends are given great credence, and according to legend, to read the
-words of Syclos the Lame is to invite madness. The secrets it unlocks are said to be sorely tempting for the power they offer, but the ultimate promise of the lame wizard’s teachings is death. The Grimoire’s information is said to be applicable to beasts across the galaxy, not just those located on Weik.
+[P]But for all its local fame, the Grimoire has been little studied by the sages of Weik. The peculiarities of its production and the nigh-indecipherable scrawl of its scribbling would be daunting enough, but Weik is a place where legends are given great credence, and according to legend, to read the words of Syclos the Lame is to invite madness. The secrets it unlocks are said to be sorely tempting for the power they offer, but the ultimate promise of the lame wizard’s teachings is death. The Grimoire’s information is said to be applicable to beasts across the galaxy, not just those located on Weik.
 [P]Studying the Grimoire of Syclos the Lame for at least one hour allows a Force-sensitive character to add [FO] to all Force power checks or checks involving Force talents when dealing with creatures detailed in the Grimoire. The bonus lasts until the end of the game session. (What creatures the bonus applies to is ultimately up to the GM, as some creatures may not be covered in the Grimoire.)
 [P]However, until the end of the game session, the difficulty of all fear checks made while confronting these creatures is upgraded twice. Any Conflict generated by a [DE]  result on a fear check is doubled.
     </Description>
@@ -7383,25 +7382,8 @@ Somewhere in the icy wastes of Hum, the wreckage of a starfighter serves as the 
     <Name>Symbol of Command</Name>
     <Description>
       [H3]Symbol of Command[h3]
-Alliance Commanders hail from numerous human, nearhuman,
-and alien cultures from throughout the galaxy.
-From contemplative, level-headed Mon Calamari, to
-cunning Bothans, to dangerously capricious humans of
-every stripe, Commanders who join the Alliance bring
-with them generations of their native military culture
-and heritage. In most of these cultures, commanding
-officers and highly ranked NCOs carry some item
-about their person that represents their lawful command
-over their subordinates. This could be anything
-from a ceremonial saber worn with a dress uniform, to
-a megaphone used to broadcast commands, to a stuncrop
-used to motivate sluggish troopers. Whatever the
-item, it symbolizes the power of an individual’s command,
-and the Commander is rarely found without it.
-[P]No matter what form the item takes, Commanders
-carrying a symbol of command add [BO] to all Social
-skill checks made to interact with others brought up
-in their particular military culture.</Description>
+Alliance Commanders hail from numerous human, nearhuman, and alien cultures from throughout the galaxy. From contemplative, level-headed Mon Calamari, to cunning Bothans, to dangerously capricious humans of every stripe, Commanders who join the Alliance bring with them generations of their native military culture and heritage. In most of these cultures, commanding officers and highly ranked NCOs carry some item about their person that represents their lawful command over their subordinates. This could be anything from a ceremonial saber worn with a dress uniform, to a megaphone used to broadcast commands, to a stuncrop used to motivate sluggish troopers. Whatever the item, it symbolizes the power of an individual’s command, and the Commander is rarely found without it.
+[P]No matter what form the item takes, Commanders carrying a symbol of command add [BO] to all Social skill checks made to interact with others brought up in their particular military culture.</Description>
     <Source Page="44">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Type>Uniforms and Accessories</Type>
@@ -7568,7 +7550,7 @@ One of the most powerful objects ever encountered by the legendary Jedi Master M
 [P]The Nightsisters did not use the Sphere as a simple tool of execution, however. The Sphere not only drains the Living Force from its victims, but also stores what it has stolen for a time. The Nightsisters could then tap into that stored Force, using it to fuel any number of Force powers to much
 greater effect than they could on their own. The Bardottan Sphere, then, is a power booster for Force users, its power being purchased at the ultimate price, paid by those its users have targeted.
 [P]In its history and recorded use, the Sphere of the Nightsisters has been understood as a tool of evil and murder. To be sure, there is little to suggest that it was created with anything but the literal theft of life in mind. However, at least some of the Dagoyan mystics who guard the Sphere today are said to have taken on a more curatorial role, studying the Sphere with an eye toward using its considerable powers in a benign way, more in keeping with their relatively peaceful philosophies. These Bardottans have begun to agitate for more access to the Sphere, arguing that if they can plumb its mysteries, they can control its effects, and perhaps find ways to utilize its curious binary nature as an object that sometimes reflects the Force and sometimes absorbs it. The discussion about whether to pursue this course of action usually ends there, though, as those who wish to activate the Sphere have thus far been unable to formulate detailed plans for its use that meet with the approval of Bardotta's sovereign and the Dagoyan council. The activist scholar-mystics argue that they must first be allowed greater access to the Sphere before they can provide any such details, but their requests have been denied as being too fraught with potential danger.
-[P]While the Sphere is in a character’s possession, the character’s Force rating increases by one. If the character sacrifices a living being to store its life force in the Sphere, then the character’s Force rating increases by the Force rating of the sacrificed being, as long as that creature’s Force rating was 1 or higher. However, a character who uses the Sphere during a session gains 5 Conflict at the at the end of the session, in addition to any Conflict accrued due to any sacrifices the character makes to power the Sphere.
+[P]While the Sphere is in a character’s possession, the character’s Force rating increases by one. If the character sacrifices a living being to store its life force in the Sphere, then the character’s Force rating increases by the Force rating of the sacrificed being, as long as that creature’s Force rating was 1 or higher. However, a character who uses the Sphere during a session gains 5 Conflict at the end of the session, in addition to any Conflict accrued due to any sacrifices the character makes to power the Sphere.
     </Description>
     <Source Page="109">Nexus of Power Sourcebook</Source>
     <Sources>
@@ -7781,7 +7763,7 @@ A helmet or comlink taken from a defeated stormtrooper can prove highly useful i
     <Name>Imperial Officer's Cap</Name>
     <Description>
       [H3]Imperial Officer's Cap[h3]
-An Imperial officer's cap is almost certainly the sign of participation in a successful battle, as officers rarely expose themselves directly to danger. A Soldier might tuck the cap into his belt, store it in his bunk, or, while enjoying a downtime celebration, put it on and preform less-than-flattering impersonations of its original owner.
+An Imperial officer's cap is almost certainly the sign of participation in a successful battle, as officers rarely expose themselves directly to danger. A Soldier might tuck the cap into his belt, store it in his bunk, or, while enjoying a downtime celebration, put it on and perform less-than-flattering impersonations of its original owner.
 [P]The bearer of this trophy adds [BO] to his Coercion checks targeting Imperial troops.</Description>
     <Source Page="96">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -7816,7 +7798,7 @@ Every Alliance soldier has specialized equipment to fulfill one or more combat r
     <Name>Portable Power Generator</Name>
     <Description>
       [H3]Portable Power Generator[h3]
-For most armies, power is just as important as ammunition, food and bandages. Energy weapons require constant recharging, heavier emplacements and repeaters need dedicated generators. Droids, comms, and other equipment demand rapid recharging under combat conditions to remain useful. A number of corporations produce small generators the Allicance deploys at trenches, encampments and rally points.
+For most armies, power is just as important as ammunition, food and bandages. Energy weapons require constant recharging, heavier emplacements and repeaters need dedicated generators. Droids, comms, and other equipment demand rapid recharging under combat conditions to remain useful. A number of corporations produce small generators the Alliance deploys at trenches, encampments and rally points.
 [P]A portable generator can recharge a depleted piece of equipment as a maneuver, or a droid or larger piece of machinery in an hour.
 [P]Additional, a portable power generator can allow an engaged character to ignore an "out of ammo" [DE] result in the same manner as an extra reload (see page 197 of the [B]Age of Rebellion[b] Core Rulebook) the generator is usually not depleted by such use except at the GM's discretion.</Description>
     <Source Page="54">Forged in Battle</Source>
@@ -7867,17 +7849,8 @@ sustain one person, and its battery lasts six months.</Description>
     <Name>Military Trauma Pack</Name>
     <Description>
       [H3]Military Trauma Pack[h3]
-Sending every soldier into battle with a medkit is not
-feasible due to weight and cost limitations, but Synthetech/Medtech has optimized its traumapac just for
-militias, mercenaries, and local defense forces. Forgoing equipment designed to treat heart failure, blood
-clots, spinal injuries, and other common medical emergencies that are less likely to be the cause of one’s
-death on the battlefield has halved the pack’s weight.
-[P]A traumapac only allows a character to use the
-Medicine skill to attempt to remove Critical Injuries
-from others without penalty, as described on page
-232 of the [B]Age of Rebellion[b] Core Rulebook, and does
-not allow her to perform the other treatment options
-described there.</Description>
+Sending every soldier into battle with a medkit is not feasible due to weight and cost limitations, but Synthetech/Medtech has optimized its traumapac just for militias, mercenaries, and local defense forces. Forgoing equipment designed to treat heart failure, blood clots, spinal injuries, and other common medical emergencies that are less likely to be the cause of one’s death on the battlefield has halved the pack’s weight.
+[P]A traumapac only allows a character to use the Medicine skill to attempt to remove Critical Injuries from others without penalty, as described on page 232 of the [B]Age of Rebellion[b] Core Rulebook, and does not allow her to perform the other treatment options described there.</Description>
     <Source Page="53">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -7897,17 +7870,8 @@ described there.</Description>
     <Name>Stimstick</Name>
     <Description>
       [H3]Stimstick[h3]
-On Yavin 4, sentries stood long watches in crow’s nests
-atop large poles that breached the jungle canopy, scanning the horizon and sensor feeds for signs of Imperial
-discovery. Echo Base was similarly dependent on early
-warnings. Unfortunately, standing watch can be long
-and boring. To stay alert, many sentries rely on stimsticks. These stylus-shaped cuts of soft wood release a
-powerful stimulant when chewed.
-[P]A character who chews a stimstick removes [SE] from
-her Discipline, Perception, Resilience, or Vigilance
-checks to stay awake or notice something due to fatigue
-or lack of sleep until the end of the encounter. At the
-end of the encounter, the character suffers 1 strain.</Description>
+On Yavin 4, sentries stood long watches in crow’s nests atop large poles that breached the jungle canopy, scanning the horizon and sensor feeds for signs of Imperial discovery. Echo Base was similarly dependent on early warnings. Unfortunately, standing watch can be long and boring. To stay alert, many sentries rely on stimsticks. These stylus-shaped cuts of soft wood release a powerful stimulant when chewed.
+[P]A character who chews a stimstick removes [SE] from her Discipline, Perception, Resilience, or Vigilance checks to stay awake or notice something due to fatigue or lack of sleep until the end of the encounter. At the end of the encounter, the character suffers 1 strain.</Description>
     <Source Page="53">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -7926,18 +7890,8 @@ end of the encounter, the character suffers 1 strain.</Description>
     <Name>Nullcaine</Name>
     <Description>
       [H3]Nullcaine[h3]
-Nullicaine is a staple of field treatment, useful for
-helping soldiers to fight on despite injuries. While it
-does little to treat an injury, it addresses many of the
-symptoms in the short term. Spraying or applying a
-bandage with this powerful anesthetic on an injury
-deadens any pain with only minor numbness.
-[P]A character may apply nullicaine to herself or an
-engaged character by making an [B]Easy ([DI]) Medicine
-check[b] and choosing 1 [B]Easy ([DI]), Average ([DI][DI])[b], or
-[B]Hard ([DI][DI][DI])[b] Critical Injury the target is currently suffering. If she succeeds, the target immediately suffers 3
-strain and ignores the chosen Critical Injury until the end
-of the encounter. Nullicaine only affects living creatures.</Description>
+Nullicaine is a staple of field treatment, useful for helping soldiers to fight on despite injuries. While it does little to treat an injury, it addresses many of the symptoms in the short term. Spraying or applying a bandage with this powerful anesthetic on an injury deadens any pain with only minor numbness. 
+[P]A character may apply nullicaine to herself or an engaged character by making an [B]Easy ([DI]) Medicine check[b] and choosing 1 [B]Easy ([DI]), Average ([DI][DI])[b], or [B]Hard ([DI][DI][DI])[b] Critical Injury the target is currently suffering. If she succeeds, the target immediately suffers 3 strain and ignores the chosen Critical Injury until the end of the encounter. Nullicaine only affects living creatures.</Description>
     <Source Page="53">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -7956,14 +7910,8 @@ of the encounter. Nullicaine only affects living creatures.</Description>
     <Name>SE-Vigilant Automated Sensor</Name>
     <Description>
       [H3]SE-Vigilant Automated Sensor[h3]
-This lightweight beacon is a sensor pod attached to a
-1.6-meter collapsible post primarily used by homesteads, militias, and big game hunters. The SE-Vigilant
-transmits to designated comlinks, datapads, computer systems, or droids. A small solar panel ensures
-it can keep transmitting for decades. Hoth’s Echo
-Base utilized a dense SE-Vigilant network to track
-wildlife and scan for Imperial activity.
-[P]The beacon has two sensors attached. The first is a
-motion sensor with video and audio that can detect targets up to long range. Once triggered, the second sensor performs a closer scan, transmitting infrared, ultraviolet, density, electromagnetic, and frequency data.</Description>
+This lightweight beacon is a sensor pod attached to a 1.6-meter collapsible post primarily used by homesteads, militias, and big game hunters. The SE-Vigilant transmits to designated comlinks, datapads, computer systems, or droids. A small solar panel ensures it can keep transmitting for decades. Hoth’s Echo Base utilized a dense SE-Vigilant network to track wildlife and scan for Imperial activity.
+[P]The beacon has two sensors attached. The first is a motion sensor with video and audio that can detect targets up to long range. Once triggered, the second sensor performs a closer scan, transmitting infrared, ultraviolet, density, electromagnetic, and frequency data.</Description>
     <Source Page="53">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
@@ -7977,22 +7925,9 @@ motion sensor with video and audio that can detect targets up to long range. Onc
     <Name>Low-Feedback Scanner</Name>
     <Description>
       [H3]Low-Feedback Scanner[h3]
-CryonCorp designed the low-feedback scanner specifically for Cotals and members of other species sensitive to the electromagnetic spectrum. While more
-problematic for droids, certain active scanners also
-cause afflicted species migraines or worse. The low-feedback scanner avoids these issues by only making
-use of passive collection technologies.
-[P]For Alliance purposes, this scanner is effectively
-invisible to Imperial sensor sweeps, making it common in special forces units. The Alliance hijacked
-several shipments of these scanners by invitation of
-CryonCorp CEO and rebel sympathizer Belaya Rist.
-A close ally of Senator Bail Organa, she witnessed
-the destruction of Alderaan from nearby Delaya while
-inspecting new manufacturing facilities.
-[P]This sensor can detect radiation sources of silhouette 1 or larger within short range, life forms within
-medium range, power sources within long range, and
-comms signals within extreme range. Extend the range
-of detection by 1 range band for every silhouette size
-by which the target’s size exceeds silhouette 1.</Description>
+CryonCorp designed the low-feedback scanner specifically for Cotals and members of other species sensitive to the electromagnetic spectrum. While more problematic for droids, certain active scanners also cause afflicted species migraines or worse. The low-feedback scanner avoids these issues by only making use of passive collection technologies.
+[P]For Alliance purposes, this scanner is effectively invisible to Imperial sensor sweeps, making it common in special forces units. The Alliance hijacked several shipments of these scanners by invitation of CryonCorp CEO and rebel sympathizer Belaya Rist. A close ally of Senator Bail Organa, she witnessed the destruction of Alderaan from nearby Delaya while inspecting new manufacturing facilities.
+[P]This sensor can detect radiation sources of silhouette 1 or larger within short range, life forms within medium range, power sources within long range, and comms signals within extreme range. Extend the range of detection by 1 range band for every silhouette size by which the target’s size exceeds silhouette 1.</Description>
     <Source Page="53">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
@@ -8012,7 +7947,7 @@ by which the target’s size exceeds silhouette 1.</Description>
     <Name>Atgar Artillery Remote</Name>
     <Description>
       [H3]Atgar Artillery Remote[h3]
-During assaults, enemy emplacements are high-priority targets, making emplacement gunner fatalities common. Alliance gunners have turned to remotes to operate emplacements from behind cover. Synchronizing a remote to a stationary emplacement requires attaching a signal receiver that comes with the remote an then configuring fussy programming. Atgar SpaceDefence Corporation is the most popular manufacturer of artillery remotes, likely in response to criticism regarding exposure while operating older Atgar emplacements.
+During assaults, enemy emplacements are high-priority targets, making emplacement gunner fatalities common. Alliance gunners have turned to remotes to operate emplacements from behind cover. Synchronizing a remote to a stationary emplacement requires attaching a signal receiver that comes with the remote and then configuring fussy programming. Atgar SpaceDefence Corporation is the most popular manufacturer of artillery remotes, likely in response to criticism regarding exposure while operating older Atgar emplacements.
 [P]A character can link a single Gunnery weapon to an Atgar Artillery Remote with a [B]Hard ([DI][DI][DI]) Computers check[b]. If the weapon is an Atgar SpaceDefence Corporation model, this check is [B]Average([DI][DI])[b] instead. If the character succeeds, the weapon gains the inaccurate 2 quality and the holder of the remote can fire the linked weapon via the remote from up to medium range.
     </Description>
     <Source Page="52">Forged in Battle</Source>
@@ -8034,16 +7969,8 @@ During assaults, enemy emplacements are high-priority targets, making emplacemen
     <Name>DH77 Headcomm</Name>
     <Description>
       [H3]DH77 Headcomm[h3]
-Standard issue for Imperial Army platoon leaders and
-also found inside storm trooper helmets, SoroSuub’s
-DH77 Headcomm is an easy-to-use system with complex encryption subroutines. Codes rotate periodically, and Imperial battlefield management systems keeps encryption synchronized.
-[P]Unfortunately, the low energy requirements set by
-the Empire for the comlink means the signal strength
-is poor, leaving it susceptible to interference from
-explosions, ion engines, and jamming. After the Battle
-of Yavin, Imperials began replacing the DH77 with the
-Herzfall Corporation DH107, which boosts power to
-mitigate DH77 ’s vulnerabilities.
+Standard issue for Imperial Army platoon leaders and also found inside storm trooper helmets, SoroSuub’s DH77 Headcomm is an easy-to-use system with complex encryption subroutines. Codes rotate periodically, and Imperial battlefield management systems keeps encryption synchronized.
+[P]Unfortunately, the low energy requirements set by the Empire for the comlink means the signal strength is poor, leaving it susceptible to interference from explosions, ion engines, and jamming. After the Battle of Yavin, Imperials began replacing the DH77 with the Herzfall Corporation DH107, which boosts power to mitigate DH77 ’s vulnerabilities.
 [P]This comlink transmits up to medium range on the planetary scale. The DH77's constantly shifting encryption adds [SE][SE][SE] to any attempt to intercept and unscramble the signal.</Description>
     <Source Page="52">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -8068,17 +7995,8 @@ mitigate DH77 ’s vulnerabilities.
     <Name>3-MAL Secure Comlink</Name>
     <Description>
       [H3]3-MAL Secure Comlink[h3]
-Popular throughout the Rebel Alliance, the 3-MAL
-Comlink is a versatile comms system squeezed into a
-tiny, pill-shaped package. In addition to military-grade
-encryption, the 3-MAL scans popular civil defense,
-emergency services, and law enforcement frequencies. Like most comlinks on the market, the 3-MAL
-easily synchronizes with properly equipped droids,
-computers, sensors, and cyborg units, and can transmit either voice or data.
-[P]This comlink transmits up to medium range on the
-planetary scale. The 3-MAL’s encryption adds [SE] to
-any check made to intercept and unscramble the signal. Monitoring a standard clear frequency on a civilized world can add [BO][BO] to Knowledge checks related to current events or conditions at the GM’s discretion.
-    </Description>
+Popular throughout the Rebel Alliance, the 3-MAL Comlink is a versatile comms system squeezed into a tiny, pill-shaped package. In addition to military-grade encryption, the 3-MAL scans popular civil defense, emergency services, and law enforcement frequencies. Like most comlinks on the market, the 3-MAL easily synchronizes with properly equipped droids, computers, sensors, and cyborg units, and can transmit either voice or data. 
+[P]This comlink transmits up to medium range on the planetary scale. The 3-MAL’s encryption adds [SE] to any check made to intercept and unscramble the signal. Monitoring a standard clear frequency on a civilized world can add [BO][BO] to Knowledge checks related to current events or conditions at the GM’s discretion.     </Description>
     <Source Page="52">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Communications</Type>
@@ -8123,7 +8041,7 @@ The badge of an Imperial Intelligence  agent is a tangible reminder that even th
     <Name>Pretormin Plastent</Name>
     <Description>
       [H3]Pretormin Plastent[h3]
-Alliance standard issue, this triangular two-meter tent inflates and anchors in minutes, and sleeps up to four. It is available in various colors and patters, but is ill-suited to  extreme environments. Rebel personnel often mount SE-Vigilant sensor pods atop their tents as an automated sentry.
+Alliance standard issue, this triangular two-meter tent inflates and anchors in minutes, and sleeps up to four. It is available in various colors and patterns, but is ill-suited to  extreme environments. Rebel personnel often mount SE-Vigilant sensor pods atop their tents as an automated sentry.
 [P]Sleeping in a plastent removes [SE][SE] from the user's checks to resist hostile temperatures while sleeping and downgrades the difficulty of any such checks once.</Description>
     <Source Page="54">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -8230,8 +8148,8 @@ This high-output stun weapon takes the form of a flat lens small enough to conce
     <Name>Scramble Key</Name>
     <Description>
       [H3]Scramble Key[h3]
-Breaking into a facility secured with an electronic lock usually requires a knowledgeable slicer, but the galactic underworld has invented myriad ways to perform the task in the absence of such personnel. Scramble keys, also called lottery keys or luckbreakers, are one such tool. Scramble keys interact with electronic locks that require a password or code input to open. instead of providing or faking the legitimate entry code, scramble keys cycle through  possible codes at incredible speeds, offering up a barrage of possible matches in fractions of a second.
-[P]The processing power is such that they are typically able to generate potential matches faster than they can input all of them. Some criminals calim that it is possible to notice when a scramble key generates the correct code through faint tremors or buzzing in the device, even if the key has not yet input this code, and that they can adjust the controls to allow them to select the correct code for immediate input. This procedure can be less effective, but could save valuable time if the operator's hunch is correct. many Force-sensitive users find they have a special knack for this approach and can intuitively select correct codes with ease.
+Breaking into a facility secured with an electronic lock usually requires a knowledgeable slicer, but the galactic underworld has invented myriad ways to perform the task in the absence of such personnel. Scramble keys, also called lottery keys or luckbreakers, are one such tool. Scramble keys interact with electronic locks that require a password or code input to open. Instead of providing or faking the legitimate entry code, scramble keys cycle through possible codes at incredible speeds, offering up a barrage of possible matches in fractions of a second.
+[P]The processing power is such that they are typically able to generate potential matches faster than they can input all of them. Some criminals claim that it is possible to notice when a scramble key generates the correct code through faint tremors or buzzing in the device, even if the key has not yet input this code, and that they can adjust the controls to allow them to select the correct code for immediate input. This procedure can be less effective, but could save valuable time if the operator's hunch is correct. Many Force-sensitive users find they have a special knack for this approach and can intuitively select correct codes with ease.
 [P]A scramble key bypasses most simple electronic locks within five minutes of application. At the Game Master's discretion, more complicated locks may require additional time to crack or might trigger alarms at the brute force incursion. The user may attempt to speed up this process with a [B]Daunting ([DI][DI][DI][DI]) Skulduggery check[b], relying on pure intuition to select the correct code from those the scramble key generates. Success reduces the time needed to crack a common lock to a single minute, but failure immediately triggers any relevant alarms. Force-sensitive characters may make a Force power check as part of this check, adding either  [SU] or [AD] for each [FP] generated.</Description>
     <Source Page="49">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8294,8 +8212,8 @@ These tiny spiderlike automata are little more than mobile audio bugs, barely wo
     <Name>Infrabinoculars (Long Range)</Name>
     <Description>
       [H3]Infrabinoculars (Long Range)[h3]
-A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are limited use in a city, where the walls of high-rise buildings frequently limit lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlinging life forms and other heat-emitting phenomena.
-[P]A character using infrabinoculars can see through up to two meters of wall, possible allowing surveillance of a whole building at once. Walls made of dense materials or constructed to shields their interiors may impose one or more [SE] on Perception checks to see inside, at the GM's discretion.
+A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are of limited use in a city, where the walls of high-rise buildings frequently limit lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlining life forms and other heat-emitting phenomena.
+[P]A character using infrabinoculars can see through up to two meters of wall, possibly allowing surveillance of a whole building at once. Walls made of dense materials or constructed to shield their interiors may impose one or more [SE] on Perception checks to see inside, at the GM's discretion.
 [P]Some models of infrabinoculars can alternate between this infrared sensor package and a long-range view equivalent to that of electrobinoculars.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8328,8 +8246,8 @@ A normal pair of macrobinoculars allows their user to see distant objects with g
     <Name>Infrabinoculars</Name>
     <Description>
       [H3]Infrabinoculars[h3]
-A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are limited use in a city, where the walls of high-rise buildings frequently limit lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlinging life forms and other heat-emitting phenomena.
-[P]A character using infrabinoculars can see through up to two meters of wall, possible allowing surveillance of a whole building at once. Walls made of dense materials or constructed to shields their interiors may impose one or more [SE] on Perception checks to see inside, at the GM's discretion.
+A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are of limited use in a city, where the walls of high-rise buildings frequently limit lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlining life forms and other heat-emitting phenomena.
+[P]A character using infrabinoculars can see through up to two meters of wall, possible allowing surveillance of a whole building at once. Walls made of dense materials or constructed to shield their interiors may impose one or more [SE] on Perception checks to see inside, at the GM's discretion.
 [P]Some models of infrabinoculars can alternate between this infrared sensor package and a long-range view equivalent to that of electrobinoculars.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8350,7 +8268,7 @@ A normal pair of macrobinoculars allows their user to see distant objects with g
     <Name>Yaladai Spice (100 doses)</Name>
     <Description>
       [H3]Yaladai Spice[h3]
-Yaladai spice is a prized and expensive stimulant, worth many times  the value of more common drugs, such as glitterstim, on the black market. To most, it offers a supreme clarity of thought and focus, along with a sense of relaxation that refreshes the user even through extended activity. The spice is extremely addictive with long-term use, but those who can afford to take it regularly it regularly rarely stop for this reason. The benefits of yaladai spice express themselves most strongly among Force users, who can use it to temporarily enhance their abilities and connection to the Force. This can be a double-edge sword as the enhanced connection usually amplifies any negative emotions or effects to which the user experiences.
+Yaladai spice is a prized and expensive stimulant, worth many times  the value of more common drugs, such as glitterstim, on the black market. To most, it offers a supreme clarity of thought and focus, along with a sense of relaxation that refreshes the user even through extended activity. The spice is extremely addictive with long-term use, but those who can afford to take it regularly rarely stop for this reason. The benefits of yaladai spice express themselves most strongly among Force users, who can use it to temporarily enhance their abilities and connection to the Force. This can be a double-edge sword as the enhanced connection usually amplifies any negative emotions or effects to which the user experiences.
 [P]Yaladai spice has effects that last for one encounter. When a character under the effects of the spice suffers strain, he suffers three less strain, to a minimum of one. This does not apply to voluntary strain loss. Additionally, a Force user under the effects of yaladai spice can add [FO] to any Force power checks she makes. When she does so, however, the spice doubles any strain and Conflict suffered for using {DA] to generate [FP].</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8372,7 +8290,7 @@ Yaladai spice is a prized and expensive stimulant, worth many times  the value o
     <Name>Yaladai Spice (1 dose)</Name>
     <Description>
       [H3]Yaladai Spice[h3]
-Yaladai spice is a prized and expensive stimulant, worth many times  the value of more common drugs, such as glitterstim, on the black market. To most, it offers a supreme clarity of thought and focus, along with a sense of relaxation that refreshes the user even through extended activity. The spice is extremely addictive with long-term use, but those who can afford to take it regularly it regularly rarely stop for this reason. The benefits of yaladai spice express themselves most strongly among Force users, who can use it to temporarily enhance their abilities and connection to the Force. This can be a double-edge sword as the enhanced connection usually amplifies any negative emotions or effects to which the user experiences.
+Yaladai spice is a prized and expensive stimulant, worth many times  the value of more common drugs, such as glitterstim, on the black market. To most, it offers a supreme clarity of thought and focus, along with a sense of relaxation that refreshes the user even through extended activity. The spice is extremely addictive with long-term use, but those who can afford to take it regularly rarely stop for this reason. The benefits of yaladai spice express themselves most strongly among Force users, who can use it to temporarily enhance their abilities and connection to the Force. This can be a double-edge sword as the enhanced connection usually amplifies any negative emotions or effects to which the user experiences.
 [P]Yaladai spice has effects that last for one encounter. When a character under the effects of the spice suffers strain, he suffers three less strain, to a minimum of one. This does not apply to voluntary strain loss. Additionally, a Force user under the effects of yaladai spice can add [FO] to any Force power checks she makes. When she does so, however, the spice doubles any strain and Conflict suffered for using {DA] to generate [FP].</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8393,7 +8311,7 @@ Yaladai spice is a prized and expensive stimulant, worth many times  the value o
     <Name>Questioner-9 (1 dose)</Name>
     <Description>
       [H3]Questioner-9 Interrogation Serum[h3]
-Interrogation serums are a favored product of the Empire. Used by Imperial authorities from local police forces to the ISB, and even the Inquisitorius, these serms come in a wide variety of forms. Such serums are also available on the black market, where they are purchased by powerful crime lords and ruthless vigilantes. The druge known as Questioner-9 is a typical example, noteworthy primarily for the flexible means of application and for the low synthesis cost that makes it available to Imperial authorities and criminals alike. Interrogators typically inject the serum into a restrained or helpless target, but Questioner-9 can also operate through ingestions by an unsuspecting diner.
+Interrogation serums are a favored product of the Empire. Used by Imperial authorities from local police forces to the ISB, and even the Inquisitorius, these serums come in a wide variety of forms. Such serums are also available on the black market, where they are purchased by powerful crime lords and ruthless vigilantes. The drug known as Questioner-9 is a typical example, noteworthy primarily for the flexible means of application and for the low synthesis cost that makes it available to Imperial authorities and criminals alike. Interrogators typically inject the serum into a restrained or helpless target, but Questioner-9 can also operate through ingestions by an unsuspecting diner.
 [P]The serum takes effect in the victim's system after a delay of about five minutes. At the point, the victim upgrades the difficulty of all checks to withhold information of resist manipulation (including resisting Force powers such as Influence) once for the next 24 hours.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8414,7 +8332,7 @@ Interrogation serums are a favored product of the Empire. Used by Imperial autho
     <Name>Questioner-9 (100 doses)</Name>
     <Description>
       [H3]Questioner-9 Interrogation Serum[h3]
-Interrogation serums are a favored product of the Empire. Used by Imperial authorities from local police forces to the ISB, and even the Inquisitorius, these serms come in a wide variety of forms. Such serums are also available on the black market, where they are purchased by powerful crime lords and ruthless vigilantes. The druge known as Questioner-9 is a typical example, noteworthy primarily for the flexible means of application and for the low synthesis cost that makes it available to Imperial authorities and criminals alike. Interrogators typically inject the serum into a restrained or helpless target, but Questioner-9 can also operate through ingestions by an unsuspecting diner.
+Interrogation serums are a favored product of the Empire. Used by Imperial authorities from local police forces to the ISB, and even the Inquisitorius, these serums come in a wide variety of forms. Such serums are also available on the black market, where they are purchased by powerful crime lords and ruthless vigilantes. The drug known as Questioner-9 is a typical example, noteworthy primarily for the flexible means of application and for the low synthesis cost that makes it available to Imperial authorities and criminals alike. Interrogators typically inject the serum into a restrained or helpless target, but Questioner-9 can also operate through ingestions by an unsuspecting diner.
 [P]The serum takes effect in the victim's system after a delay of about five minutes. At the point, the victim upgrades the difficulty of all checks to withhold information of resist manipulation (including resisting Force powers such as Influence) once for the next 24 hours.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8478,7 +8396,7 @@ This rare spice is well known for its properties as a powerful painkiller and fo
     <Name>TC-SC Infiltration Droid</Name>
     <Description>
       [H3]TC-SC Infiltration Droid[h3]
-Produced by Cybot Galactica and marketed primarily to government and military intelligence agencies, TC-SC droids are frighteningly effective tools for espionage, infiltration, and assassination. Particularly inconspicuous-looking, they stand just under two meters tall and appears to be normal third-degree droids, such as protocol models or teaching units. They have spindly limbs; an oversized, humanoid head with a featureless faceplate; and set of four small, red photoreceptors. These droids come in a variety of gender programming options, and their personalities are usually quiet and conciliatory. THey seem, at first glance, to be simple, uncomplicated droids going about their drudgery with little fanfare. Which, of course, is exactly what their designers want.
+Produced by Cybot Galactica and marketed primarily to government and military intelligence agencies, TC-SC droids are frighteningly effective tools for espionage, infiltration, and assassination. Particularly inconspicuous-looking, they stand just under two meters tall and appears to be normal third-degree droids, such as protocol models or teaching units. They have spindly limbs; an oversized, humanoid head with a featureless faceplate; and a set of four small, red photoreceptors. These droids come in a variety of gender programming options, and their personalities are usually quiet and conciliatory. THey seem, at first glance, to be simple, uncomplicated droids going about their drudgery with little fanfare. Which, of course, is exactly what their designers want.
 [P]Their innocuous looks and seemingly meek personalities are only one of the myriad of weapons the TC-SC droids utilize. They are deadly and cunning, easily equal to the best espionage agents in the ISB. Their programming includes not only intelligence and counterintelligence techniques, but also stealth, infiltration, combat, assassination, and even acting and mimicry. The most potent weapon, however, is the powerful CQ-3.80 multispectrum disguise suite that shroud them in a nearly foolproof holographic disguise. This allows TC-SC droids to take on the appearance of nearly any species in the galaxy. Combined with their programming, and given time to observe and study a target, these droids can even impersonate specific individuals.
 [P]While they are quite effective and dangerous, TC-SC droids are, thankfully, relatively rare. Their systems—though powerful—are delicate, and the droids require constant maintenance. They also require memory wipes more often than other droids due to quirks in their programming. Without the regular maintenance and memory wipes, some TC-SC droids have lost themselves in their disguises and come to believe that they are actually who or what they were last impersonating. On a few rare occasions, these droids have gone rogue and disappeared. At least two ISB TC-SC droids have deserted their missions in the Outer Rim in the last decade and remain at large in the galaxy following their own whims.</Description>
     <Source Page="47">Endless Vigil</Source>
@@ -8495,7 +8413,7 @@ Produced by Cybot Galactica and marketed primarily to government and military in
     <Name>MI-Series Security Droid</Name>
     <Description>
       [H3]MI-Series Security Droid[h3]
-Holowan MEchanicals' imposing MI-series security droids are some of the most efficient and dangerous droids in the galaxy. A recent entry into an already crowded security droids field, Holowan made its new droids stand out by arming them to their metaphorical teeth and targeting them heavily among wealthy civilians and small planetary governments. Its plan paid off, and within a scant few years it had a nearly two-year waiting list for new MI-series models.
+Holowan Mechanicals' imposing MI-series security droids are some of the most efficient and dangerous droids in the galaxy. A recent entry into an already crowded security droid field, Holowan made its new droids stand out by arming them to their metaphorical teeth and targeting them heavily among wealthy civilians and small planetary governments. Its plan paid off, and within a scant few years it had a nearly two-year waiting list for new MI-series models.
 [P]At first glance, MI-series droids look more like a frontline combat droids than private security units. They stand just over two meters tall and are covered in thick plasteel armor of a type usually found in heavy battle hardsuits and power-assisted armor. They have two heavy duty front legs that end in broad feet, and a small, armored head fitted with two large, red photoreceptors. Their most striking features are the two sets of arms mounted to their torso.
 [P]The upper arms, which are mounted to the droid's shoulders, are proportional to the size of the droid. Each of these arm ends in a powerful weapon cluster that includes a pair of light repeating blasters and a pair of short-range stun blasters. The lower arms are huge, seeming much larger than the droid's chassis should be able to support and end in a  pair of massive, powerful hands, each with two fingers  and an opposable thumb. The weapons loadout, multitude of arms, and very aggressive programming with which these droids are equipped makes them incredibly formidable opponents.
 [P]MI-series droids have stern humorless personalities and are given to barking orders and making bold declarations. Their voices have a deep, resonant tone that heightens their intimidation factor. They are programmed to close quickly with non-hostiles invading their personal space while warning or ordering them away from some forbidden area. Very few individuals in the galaxy can withstand having a two-meter tall heavily armed very angry droid looming over them while demanding they leave an area lest the droid open fire. MI-series droids that go for too long without a memory wipe tend to develop disturbing, almost sadistic personality traits and can become unhinged and dangerous without constant upkeep. At least one of these powerful droids, a unit designated MI-726, is known to have gone rogue and taken up a life of anti-Imperial crime.</Description>
@@ -8513,8 +8431,8 @@ Holowan MEchanicals' imposing MI-series security droids are some of the most eff
     <Name>Guardian Police Droid</Name>
     <Description>
       [H3]Guardian Police Droid[h3]
-GU-series "Guardian" police droids were the primary law enforcement droids operated by the Coruscant Security Force during the final years of the Republic. Designed and built by Cybot Galactica specifically for the CSF, countless thousands of these droids patrolled the sprawling upper levels of Coruscant's Galactic City for generations. While in service, GU-series droids gained a reputation as solid and levelheaded, if unimaginative, law enforcers. They were programmed for various police work, such as patrol, peacekeeping, crime scene investigation, detective work, and riot control. Although they were reliable, the GU-series droids suffered from a lack of initiative. Clever or dedicated criminals could usually outhink them with little difficulty.
-[P]Guardian police droids stand just under two meters tall. They have roughly human proportions, with long dexterous arms powerful legs, and a round head with gold-colored photoreceptors. Their heads are capped with a tall, cap-like structure reminiscent of a shako or kepi, complete with a short brim over their photoreceptors, this structure houses sensors and a powerful communications suite. The droids are  often painted dark blue with silver and white accents, with a CSF badge painted on their left chest plate. When on patrol, Guardians are typically armed with a BlasTech SS-410 Police Spcial blaster pistol and a simple truncheon. Depending on the situation, they can also be equipped with stun batons, grenade launchers, riot shields, and blaster rifles.
+GU-series "Guardian" police droids were the primary law enforcement droids operated by the Coruscant Security Force during the final years of the Republic. Designed and built by Cybot Galactica specifically for the CSF, countless thousands of these droids patrolled the sprawling upper levels of Coruscant's Galactic City for generations. While in service, GU-series droids gained a reputation as solid and levelheaded, if unimaginative, law enforcers. They were programmed for various police work, such as patrol, peacekeeping, crime scene investigation, detective work, and riot control. Although they were reliable, the GU-series droids suffered from a lack of initiative. Clever or dedicated criminals could usually outthink them with little difficulty.
+[P]Guardian police droids stand just under two meters tall. They have roughly human proportions, with long dexterous arms, powerful legs, and a round head with gold-colored photoreceptors. Their heads are capped with a tall, cap-like structure reminiscent of a shako or kepi, complete with a short brim over their photoreceptors, this structure houses sensors and a powerful communications suite. The droids are  often painted dark blue with silver and white accents, with a CSF badge painted on their left chest plate. When on patrol, Guardians are typically armed with a BlasTech SS-410 Police Special blaster pistol and a simple truncheon. Depending on the situation, they can also be equipped with stun batons, grenade launchers, riot shields, and blaster rifles.
 [P] By the end of the Clone Wars and the rise of the Galactic Empire, most Guardian droids were phased out of operation with the CSF.  Replaced by Stormtroopers and newer-model, more aggressive droids, surplus GU-series droids were sold off to other worlds, reassigned to lower-priority sectors, or simply scrapped. Some can still be found patrolling the lower levels of the Imperial capitol, however. Many of these veteran droids have not had a memory wipe in decades and some have even developed very distinct personalities similar to no-nonsense police officers. They still serve the people of Coruscant, but most are entirely too old and outdated to be carrying out actual police duties.</Description>
     <Source Page="46">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8529,8 +8447,8 @@ GU-series "Guardian" police droids were the primary law enforcement droids opera
     <Name>DUM-Series Pit Droid</Name>
     <Description>
       [H3]DUM-Series Pit Droid[h3]
-Produced in huge numbers by Serv-O-Droid, the ubiquitous DUM-series droids are a common sight in workshops mechanics' garages and racing pits all across the galaxy. Introduced during the days of the Galactic Republic these droids were constructed at the Serv-O-Droid facility on Cyrillia for labor repair, and light construction use. Through out the decades during which the DUM series has been in service these droids have gained an unfortunate reputation as poorly programmed, hapless and clumsy things that are often not worth the trouble of keeping. They are also highly  disposable, thanks to their cheap construction and low price point, most DUM-series droids are simply destroyed or recycled when damaged rather than repairing. Scrapyards throughout the galaxy are littered with the remains of DUM-series droids, and few individuals consider them to have worth at all.
-[P]Despite their reputation and common prejudices against them DUM-series droids are quite capable within the narrow range of their abilities DUM-series droids stand roughly one meter high. They have a spindly almost skeletal appearance, with long, thin limbs and agile digits. They have a broad, flared dome-shaped head dominated by a single large, round photoreceptor equipped with multi-spectrum scanners that detect microscopic damage in metals and other solid materials. Designed to work in large packs, they are equipped with a built-in comm system that includes a constant data link allowing groups of the droids to work together more efficiently and effectively without vocal communications. In addition, DUM-series droids can lift and carry weights well out of proportion to their tiny size. When deactivated, DUM-series droids can fold up into rough cubes covered by their broad heads this allows them to be stored and shipped easily. They can also use this mode to protect themselves from danger such as crashing vehicles or falling debris.
+Produced in huge numbers by Serv-O-Droid, the ubiquitous DUM-series droids are a common sight in workshops, mechanics' garages and racing pits all across the galaxy. Introduced during the days of the Galactic Republic these droids were constructed at the Serv-O-Droid facility on Cyrillia for labor repair, and light construction use. Through out the decades during which the DUM series has been in service these droids have gained an unfortunate reputation as poorly programmed, hapless and clumsy things that are often not worth the trouble of keeping. They are also highly  disposable, thanks to their cheap construction and low price point, most DUM-series droids are simply destroyed or recycled when damaged rather than repairing. Scrapyards throughout the galaxy are littered with the remains of DUM-series droids, and few individuals consider them to have worth at all.
+[P]Despite their reputation and common prejudices against them, DUM-series droids are quite capable within the narrow range of their abilities. DUM-series droids stand roughly one meter high. They have a spindly almost skeletal appearance, with long, thin limbs and agile digits. They have a broad, flared dome-shaped head dominated by a single large, round photoreceptor equipped with multi-spectrum scanners that detect microscopic damage in metals and other solid materials. Designed to work in large packs, they are equipped with a built-in comm system that includes a constant data link allowing groups of the droids to work together more efficiently and effectively without vocal communications. In addition, DUM-series droids can lift and carry weights well out of proportion to their tiny size. When deactivated, DUM-series droids can fold up into rough cubes covered by their broad heads. This allows them to be stored and shipped easily. They can also use this mode to protect themselves from danger such as crashing vehicles or falling debris.
 [P]While not particularly well liked by the general galactic population or well supported by Serv-O-Droid, DUM-series droids are still a common sight in the galaxy. They are especially popular in the Outer Rim, where their relative strength and mechanical programming make them excellent assistants to poorer shipwrights and vehicle builders. DUM-series droids are also closely associated with Podracing, nearly every Podracing team keeps a stable of these droids to maintain their vehicles and salvage scrap from crashed competitors along racecourses.</Description>
     <Source Page="45">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8545,7 +8463,7 @@ Produced in huge numbers by Serv-O-Droid, the ubiquitous DUM-series droids are a
     <Name>Riding Tack</Name>
     <Description>
       [H3]Riding Tack[h3]
-Riding tack is a catchall term for the assorted bits of equipment needed to ride or control a beast. Produced by companies like Piccatech Ltd. and VeTech, tack comes in a variety of styles tailored to the physiology of nearly every known domesicable beast in the galaxy. Riding tack includes a sturdy comfortable saddle designed for a specific beast and riding style, stirrups, headgear (bridle, halter, bit, reins, etc,), and a breastplate. Tack made for working animals replaces the saddle with a heavy duty harness that allows a creature to pull cargo sleds or implements such as plows.
+Riding tack is a catchall term for the assorted bits of equipment needed to ride or control a beast. Produced by companies like Piccatech Ltd. and VeTech, tack comes in a variety of styles tailored to the physiology of nearly every known domesticable beast in the galaxy. Riding tack includes a sturdy comfortable saddle designed for a specific beast and riding style, stirrups, headgear (bridle, halter, bit, reins, etc,), and a breastplate. Tack made for working animals replaces the saddle with a heavy duty harness that allows a creature to pull cargo sleds or implements such as plows.
 [P]Tack can only be worn by riding or working animals. Using tack allows a character to ride the beast without suffering the bareback riding penalties detailed on page 73.
 [P][I]Note: This tack can also be found as an attachment for a mount vehicle.
     </Description>
@@ -8570,9 +8488,9 @@ Riding tack is a catchall term for the assorted bits of equipment needed to ride
     <Name>Broadhead Arrow (FS19 Compound Bow)</Name>
     <Description>
       [H3]Broadhead Arrow (Field Sports FS19 Compound Bow)[h3]
-Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
-[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itesle if built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
-[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with with  sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. THese arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
+Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
+[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
+[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with with  sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
     <Source Page="41">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Reloads/Ammo</Type>
@@ -8587,7 +8505,7 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
       [H3]Explosive Tipped Arrow (Field Sports FS19 Compound Bow)[h3]
 Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
 [P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itesle if built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
-[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with with  sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. THese arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
+[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
     <Source Page="41">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Reloads/Ammo</Type>
@@ -8600,9 +8518,9 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
     <Name>Incendiary Arrow (FS19 Compound Bow)</Name>
     <Description>
       [H3]Incendiary Arrow (Field Sports FS19 Compound Bow)[h3]
-Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
-[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itesle if built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
-[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with with  sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. THese arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow. </Description>
+Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
+[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
+[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow. </Description>
     <Source Page="41">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Reloads/Ammo</Type>
@@ -8615,9 +8533,9 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
     <Name>Net Arrow (FS19 Compound Bow)</Name>
     <Description>
       [H3]Net Arrow (Field Sports FS19 Compound Bow)[h3]
-Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
-[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itesle if built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
-[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with with  sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. THese arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
+Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
+[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
+[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
     <Source Page="41">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Reloads/Ammo</Type>
@@ -8630,9 +8548,9 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
     <Name>Stun Arrow (FS19 Compound Bow)</Name>
     <Description>
       [H3]Stun Arrow (Field Sports FS19 Compound Bow)[h3]
-Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
-[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itesle if built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
-[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with with  sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. THese arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
+Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and efficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliability of a bow—not to mention its near silence of operation and broad selection of ammunition types are exactly what a given situation requires.
+[P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficient weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
+[P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with sharp, bladed point at one end and synthetic, spin stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
     <Source Page="41">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Reloads/Ammo</Type>
@@ -8645,7 +8563,7 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
     <Name>Surveyer's Tools</Name>
     <Description>
       [H3]Surveyer's Tools[h3]
-Even in a galaxy as old and well traveled as this, new worlds are still regularly discovered. Whether found by sheer accident or during a sponsored exploration mission, newly discovered worlds need to be surveyed and cataloged—making planetary surveyors in high demand throughout the galaxy. While most surveyors, especially those with years of experience, claim they need little more than a ruler, compass and stout length of chain to do their job, the planetary survey field is full of specialized tools and equipment. A good kit of surveyor's tools and measuring and recording devices for plotting out and mapping, planetary surfaces. Basic kits are often more than a chain, a compass, and tool like a sextant for recording the position and movement of stars, but advanced kits used by professional surveyors can fill one or two large carrying cases or even the bed of a small speeder truck.
+Even in a galaxy as old and well traveled as this, new worlds are still regularly discovered. Whether found by sheer accident or during a sponsored exploration mission, newly discovered worlds need to be surveyed and cataloged—making planetary surveyors in high demand throughout the galaxy. While most surveyors, especially those with years of experience, claim they need little more than a ruler, compass and stout length of chain to do their job, the planetary survey field is full of specialized tools and equipment. A good kit of surveyor's tools and measuring and recording devices for plotting out and mapping planetary surfaces. Basic kits are often more than a chain, a compass, and tool like a sextant for recording the position and movement of stars, but advanced kits used by professional surveyors can fill one or two large carrying cases or even the bed of a small speeder truck.
 [P]A set of basic surveyor's tools adds [BO] to a character's Perception checks when plotting specific locations on a planet's surface, measuring distances or creating detailed maps. Larger kits may add [BO][BO] at the Game Master's discretion.</Description>
     <Source Page="49">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -8719,7 +8637,7 @@ Vrblthers are aggressive predators found across the moon of Nar Shaddaa, althoug
     <Name>Weapon Maintenance Kit</Name>
     <Description>
       [H3]Weapon Maintenance Kit[h3]
-Produced by every major galactic arms manufacturer, and by many general tool and instrument, makers, weapon maintenance kits are essential for keeping portable weapons operating under field conditions. Typically designed for specific class of weapon—blasters, slugthrowers, disruptors, stun weapons, vibro weapons, air rifles, etc.—weapon maintenance kits include everything an individual needs to keep a weapon in top operating condition. For example, a kit for blasters might contain a small, basic precision toolkit, a circuit tester, galven pattern repair jig, fusion solder, cleaning solutions, extra lenses, and spare cylinder of Tibanna gas. These tools are usually carried in a small roll or case to keep them together and organized.
+Produced by every major galactic arms manufacturer, and by many general tool and instrument makers, weapon maintenance kits are essential for keeping portable weapons operating under field conditions. Typically designed for specific class of weapon—blasters, slugthrowers, disruptors, stun weapons, vibro weapons, air rifles, etc.—weapon maintenance kits include everything an individual needs to keep a weapon in top operating condition. For example, a kit for blasters might contain a small, basic precision toolkit, a circuit tester, galven pattern repair jig, fusion solder, cleaning solutions, extra lenses, and spare cylinder of Tibanna gas. These tools are usually carried in a small roll or case to keep them together and organized.
 [P]When purchasing one of these kits, the player must specify the kit type (blaster, slugthrower, etc.). Each provides [BO][BO] to any Mechanics checks made to repair, maintain or modify a weapon, but for that specific class of weapon.</Description>
     <Source Page="49">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -8858,7 +8776,7 @@ The Survivalist by SEI is one of the most popular compact mess kits in the galax
     <Name>FlashFire Camp Stove</Name>
     <Description>
       [H3]Survival Equipment Inc. FlashFire Camp Stove[h3]
-SEI's FlashFire is a compact, lightweight, all-in-one camp stove designed for individuals who need to travel light through the wilderness. The stove consists of a high-output multifuel burner, a fuel cell, and an integrated canister that acts as pot, pan, kettle, and caf distillation system. The FlashFire is easy to use, windproof, and stands up well to the rigors of field use. Although the mult-use canister is integrated into the device, it can be removed with some basic tools and a few minutes of work to allow the fuel cell and burner to be used with other cookward.</Description>
+SEI's FlashFire is a compact, lightweight, all-in-one camp stove designed for individuals who need to travel light through the wilderness. The stove consists of a high-output multifuel burner, a fuel cell, and an integrated canister that acts as pot, pan, kettle, and caf distillation system. The FlashFire is easy to use, windproof, and stands up well to the rigors of field use. Although the multi-use canister is integrated into the device, it can be removed with some basic tools and a few minutes of work to allow the fuel cell and burner to be used with other cookware.</Description>
     <Source Page="47">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -8872,7 +8790,7 @@ SEI's FlashFire is a compact, lightweight, all-in-one camp stove designed for in
     <Name>Spintiri Glowbat</Name>
     <Description>
       [H3]Spintiri Glowbat[h3]
-The planet Spintir is known to xenobiologists for its curious diversity of mammalian species, but, few of its native lifeforms are as notable as the local glowbats. With a wingspan of just over a meter, the glowbats are not as physically imposing as the icewolves or powerful Spintiri lynxes that sit at the top of the planet's food chain. However, thanks to the bioluminescent, scaly flakes that collect under their wings, glowbats have managed to carve out a niche or their homeworld with few regular predators and an abundance of prey. By flapping their wings to spray the flakes forward, flowbats can disorient attackers in order to make their escape or stun prey as they swoop in for the kill.
+The planet Spintir is known to xenobiologists for its curious diversity of mammalian species, but few of its native lifeforms are as notable as the local glowbats. With a wingspan of just over a meter, the glowbats are not as physically imposing as the icewolves or powerful Spintiri lynxes that sit at the top of the planet's food chain. However, thanks to the bioluminescent, scaly flakes that collect under their wings, glowbats have managed to carve out a niche or their homeworld with few regular predators and an abundance of prey. By flapping their wings to spray the flakes forward, flowbats can disorient attackers in order to make their escape or stun prey as they swoop in for the kill.
 [P]What's more, glowbats are able to regulate their bioluminescence for purposes other than predation and defense. They can dim the glow under their wings to avoid attention, or flare it in modulated sequences to communicate with each other. The last capability is used to negotiate territorial boundaries or attract mates, although some Spintiri locals believe it might be possible to train the glowbats to produce signals on command.</Description>
     <Source Page="78">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -8887,7 +8805,7 @@ The planet Spintir is known to xenobiologists for its curious diversity of mamma
     <Name>Uxibeast</Name>
     <Description>
       [H3]Uxibeast[h3]
-Shaggy uxibeasts have been used as beasts of burden on planets across the galaxy for untold years. These docile herd beasts can carry enormous loads without any sign of discomfort, and they are extremely difficult ot spook or rile. Some cultures even use these horned quadrupeds as mounts, although the difficulty of spurring them past a slow, ambling gait limits the usefulness and popularity of this practice.</Description>
+Shaggy uxibeasts have been used as beasts of burden on planets across the galaxy for untold years. These docile herd beasts can carry enormous loads without any sign of discomfort, and they are extremely difficult to spook or rile. Some cultures even use these horned quadrupeds as mounts, although the difficulty of spurring them past a slow, ambling gait limits the usefulness and popularity of this practice.</Description>
     <Source Page="79">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Riding Beasts</Type>
@@ -8901,7 +8819,7 @@ Shaggy uxibeasts have been used as beasts of burden on planets across the galaxy
     <Name>Mantellian Flutterplume</Name>
     <Description>
       [H3]Mantellian Flutterplume[h3]
-The flutterplumes of Ord Mantell are a species of large carnivorous avians with powerful, hooked beaks and four sets of razor-sharp talons. While they primarily feed on carrion using their talons to slice apart fallen beasts, hungry flutterplumes have been known to turn on vulnerable looking living prey in hops of an easy meal. Given the size and capabilities of these creatures an "easy meal" can mean anything from a wounded herd beast not yet fully dead to a lone sentient without obvious means of self-defense. Most flutterplume populations have learned to respect blasters but there are enough stories of bold or hungry specimens attacking isolated travelers that they have developed a fearsome reputation quite at odds with their flowery name and dazzling plumage.</Description>
+The flutterplumes of Ord Mantell are a species of large carnivorous avians with powerful, hooked beaks and four sets of razor-sharp talons. While they primarily feed on carrion using their talons to slice apart fallen beasts, hungry flutterplumes have been known to turn on vulnerable looking living prey in hopes of an easy meal. Given the size and capabilities of these creatures an "easy meal" can mean anything from a wounded herd beast not yet fully dead to a lone sentient without obvious means of self-defense. Most flutterplume populations have learned to respect blasters but there are enough stories of bold or hungry specimens attacking isolated travelers that they have developed a fearsome reputation quite at odds with their flowery name and dazzling plumage.</Description>
     <Source Page="76">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -8944,7 +8862,7 @@ Although reeks are naturally herbivorous and non-aggressive, their fearsome appe
     <Name>Porvir</Name>
     <Description>
       [H3]Porvir[h3]
-Porvir are tiny, awkward creatures. More than half of their bodies are taken up by  a bulbous rear, in which they store water and fat for the lean winter months. Their stubby legs move them at a slow waddle, and their poor vision means that they rarely find food quickly or easily, and often creatures leave behind. Despite all these disadvantages, porvir thrive across nearly every world on which they c an be found, regardless of the predatory species present—thanks to a natural affinity for the Force.
+Porvir are tiny, awkward creatures. More than half of their bodies are taken up by  a bulbous rear, in which they store water and fat for the lean winter months. Their stubby legs move them at a slow waddle, and their poor vision means that they rarely find food quickly or easily, and often creatures leave behind. Despite all these disadvantages, porvir thrive across nearly every world on which they can be found, regardless of the predatory species present—thanks to a natural affinity for the Force.
 [P]Porvir have the innate ability to discourage hostile attention by using the Force in a way similar to the mind tricks that Force users sometimes employ to persuade the weak willed. While sentient beings usually have the mental fortitude to harm or capture porvir if they try, most other animals simply ignore the creatures as if they were not present, or at least  inedible. Given this unusual power, most porvir travel their habitats without any sign of fear which can make  them either unpleasant pests or easily befriended pets depending on the circumstances at hand.</Description>
     <Source Page="77">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -8959,8 +8877,8 @@ Porvir are tiny, awkward creatures. More than half of their bodies are taken up 
     <Name>Nexu</Name>
     <Description>
       [H3]Nexu[h3]
-Orignally native to the jungles of Cholganna, nexu have been transplanted across the galaxy since they were first discovered to be domesticable. Sometimes used as guard animals, they are far more commonly trained as arena combatants for use in gladiatorial games and challenges. They demand is driven part by their fearsome appearance with a huge toothy maw, four beady eyes and massive claw-tipped paws, all backed up by a pair of barbed tail spikes. What's more, nexu are fully as lethal as their natural armament would suggest, and possess a temperament and instinctive cunning that make them even greater threats.
-[P]Although naturally stealthy and elusive, nexu do not lack for ferocity or mettle in a direct fight, and they rarely back down in the face of any threat they encounter. Even then faced with more ferocious predator, nexu are more likely to attempt to melt away into the underbrush or other cover and attack again using stealth to gain the advantage than to simply flee their hunting grounds. Of course, this means that training such fierce beasts is a dangerous and unforgiving task, but the demand for them means there are always those willing to take the risk.</Description>
+Originally native to the jungles of Cholganna, nexu have been transplanted across the galaxy since they were first discovered to be domesticable. Sometimes used as guard animals, they are far more commonly trained as arena combatants for use in gladiatorial games and challenges. The demand is driven in part by their fearsome appearance with a huge toothy maw, four beady eyes, and massive claw-tipped paws, all backed up by a pair of barbed tail spikes. What's more, nexu are fully as lethal as their natural armament would suggest, and possess a temperament and instinctive cunning that make them even greater threats.
+[P]Although naturally stealthy and elusive, nexu do not lack for ferocity or mettle in a direct fight, and they rarely back down in the face of any threat they encounter. Even then faced with a more ferocious predator, nexu are more likely to attempt to melt away into the underbrush or other cover and attack again using stealth to gain the advantage than to simply flee their hunting grounds. Of course, this means that training such fierce beasts is a dangerous and unforgiving task, but the demand for them means there are always those willing to take the risk.</Description>
     <Source Page="77">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -8974,7 +8892,7 @@ Orignally native to the jungles of Cholganna, nexu have been transplanted across
     <Name>Manka Cat</Name>
     <Description>
       [H3]Manka Cat[h3]
-A rare example of a feline predator with a pack instinct, manka cats have been found across the mountains and grasslands of a number of the Core Worlds still lightly settled enough to have wilderness areas. These creatures range from 1.5 to nearly 2 meters in length, although they have low-slung bodies for hiding in tall grass or among rock formations. Manka cats are also distinguishable by the thick manes of fur around their necks, and the two sets of menacing, forward-jutting tusks in their lower jaws. Although they still can be found on other worlds one of the largest populations of the species was located in the mountains of Alderaan. With that planet;s destruction the species has had its numbers thinned considerable, although they are not yet truly endangered.</Description>
+A rare example of a feline predator with a pack instinct, manka cats have been found across the mountains and grasslands of a number of the Core Worlds still lightly settled enough to have wilderness areas. These creatures range from 1.5 to nearly 2 meters in length, although they have low-slung bodies for hiding in tall grass or among rock formations. Manka cats are also distinguishable by the thick manes of fur around their necks, and the two sets of menacing, forward-jutting tusks in their lower jaws. Although they still can be found on several other worlds, one of the largest populations of the species was located in the mountains of Alderaan. With that planet;s destruction the species has had its numbers thinned considerable, although they are not yet truly endangered.</Description>
     <Source Page="76">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9002,7 +8920,7 @@ The mountain dwelling hurghols are surefooted, reptilian climbers, whose many jo
     <Name>Kath Hound</Name>
     <Description>
       [H3]Kath Hound[h3]
-The kath hounds of Dantooine are a species of fierce canine pack hunters, averaging about one meter tall at the shoulders. There are a number of subsepcies of kath hounds including variants with powerful, curvingforns although all are notable for their cloven hooves, thick fur and strong jaws. Some xenobiologists attempt to categorize some varieties as more powerful or dangerous than others, but in truth all members of the species are lethal hunters, especially when hunting alongside their pack mates. Alone or in packs, kath hounds have been trained as guard or attack animals across the galaxy for centuries. Some attempts have been made to breed or genetically engineer improved versions of the species, such as the highly aggressive and near uncontrollable salky hounds, but few real improvements have been made.</Description>
+The kath hounds of Dantooine are a species of fierce canine pack hunters, averaging about one meter tall at the shoulders. There are a number of subspecies of kath hounds including variants with powerful, curving horns although all are notable for their cloven hooves, thick fur and strong jaws. Some xenobiologists attempt to categorize some varieties as more powerful or dangerous than others, but in truth all members of the species are lethal hunters, especially when hunting alongside their pack mates. Alone or in packs, kath hounds have been trained as guard or attack animals across the galaxy for centuries. Some attempts have been made to breed or genetically engineer improved versions of the species, such as the highly aggressive and near uncontrollable salky hounds, but few real improvements have been made.</Description>
     <Source Page="76">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9016,7 +8934,7 @@ The kath hounds of Dantooine are a species of fierce canine pack hunters, averag
     <Name>Jerethian Clamberwolf</Name>
     <Description>
       [H3]Jerethian Clamberwolf[h3]
-The powerful, heavily furred clamberwolves are the unquestioned apex predators of the forests on their homeworld of Jereth VI. Their fierce, lupine muzzles and ripping talons can take down almost any prey, but in their native forests, it is their natural deftness at climbing that places them atop the food chain. Clamberwolves are capable of cunning ambushes and and tactics that can take down larger animals or leave weak prey with nowhere to run. They are surprisingly intelligent for mere beasts, but their natural aggression makes studying or training them difficult for most.</Description>
+The powerful, heavily furred clamberwolves are the unquestioned apex predators of the forests on their homeworld of Jereth VI. Their fierce, lupine muzzles and ripping talons can take down almost any prey, but in their native forests, it is their natural deftness at climbing that places them atop the food chain. Clamberwolves are capable of cunning ambushes and tactics that can take down larger animals or leave weak prey with nowhere to run. They are surprisingly intelligent for mere beasts, but their natural aggression makes studying or training them difficult for most.</Description>
     <Source Page="75">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9046,7 +8964,7 @@ The spine-backed, reptilian albeks have spread to numerous worlds across the gal
     <Name>Fissrit</Name>
     <Description>
       [H3]Fissrit[h3]
-Fissrit, also known as "fire worms" are many-legged arthropods measuring just under a third of a meter in length. Native to ice worlds, they are able to thrive in frozen conditions through a natural chemical reaction in their underbellies that can produce incredible heat. At rest, fissrit produce just enough warmth to survive local conditions, but they increase their heat production to melt snow and ice into liquid water, as well as to kill any prey foolish enough to investigate the false oases they produce. Some varieties of the species dwell in colonies, while the largest variants are more typically solitary hunters, although all fissrit possess a strong social instinct.</Description>
+Fissrit, also known as "fire worms," are many-legged arthropods measuring just under a third of a meter in length. Native to ice worlds, they are able to thrive in frozen conditions through a natural chemical reaction in their underbellies that can produce incredible heat. At rest, fissrit produce just enough warmth to survive local conditions, but they increase their heat production to melt snow and ice into liquid water, as well as to kill any prey foolish enough to investigate the false oases they produce. Some varieties of the species dwell in colonies, while the largest variants are more typically solitary hunters, although all fissrit possess a strong social instinct.</Description>
     <Source Page="75">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9098,7 +9016,7 @@ Clawdites adjust their shape by moving fluid through their body, and reorganizin
     <Key>HOLODISGUISE</Key>
     <Name>Holographic Disguise Matrix</Name>
     <Description>[H3]Holographic Disguise Matrix[h3]
-When setting a trap or infiltrating a facility, altering one's appearance grants a huge advantage. A holographic disguise matrix overlays the wielder's appearance with on stored on the device. The device—typically small enough to wear on a belt—includes a camera that can be used to record another individual's appearance to overlay on the wearer. A base model unit is capable of storing only a single disguise in memory at a time, though more sophisticated and expensive units do exist.
+When setting a trap or infiltrating a facility, altering one's appearance grants a huge advantage. A holographic disguise matrix overlays the wielder's appearance with one stored on the device. The device—typically small enough to wear on a belt—includes a camera that can be used to record another individual's appearance to overlay on the wearer. A base model unit is capable of storing only a single disguise in memory at a time, though more sophisticated and expensive units do exist.
 [P]The projected hologram must be at least marginally larger than the wearer in order to provide adequate concealment. Thus, it cannot be used to disguise a particularly large individual as a smaller one. The holograms are built around visible light. so do not grant concealment against infrared sensors or detection devices built around other energies.
 [P]When using a holographic disguise matrix, the character can effectively impersonate the visual appearance of whomever the device has previously recorded. This device adds [BO][BO] to the user's Deception checks to impersonate the target and adds [SE][SE] to onlookers' Perception checks to detect the imposter.</Description>
     <Source Page="54">No Disintegrations</Source>
@@ -9170,7 +9088,7 @@ Widely available from a variety of manufacturers such as TaggeCo, Goseia Heavy I
     <Name>Rocket Boots</Name>
     <Description>[H3]Rocket Boots[h3]
 The ability to turn a leap into an extended flight at will offers a tremendous level of tactical versatility. If an opponent fails to recognize this capacity, then the advantage becomes even more substantial. Rocket boots enable an individual to take flight on a whim, without being as bulky or as obvious as a jetpack.
-[P]The convenience of their smaller size comes at a cost, however. Rocket boots cannot operate for extended periods, due to their limited cooling capacity. Furthermore, as they are worn far from a beings center of gravity, they are far more difficult to control.
+[P]The convenience of their smaller size comes at a cost, however. Rocket boots cannot operate for extended periods, due to their limited cooling capacity. Furthermore, as they are worn far from a being's center of gravity, they are far more difficult to control.
 [P]Rocket boots enable a person to function as a Silhouette 1, Speed 1, Handling -3, System Strain Threshold 3 vehicle that can only operate in atmosphere, and requires Piloting (Planetary) to operate. At the end of each round of activation, the rocket boots suffer 1 system strain as their fuel depletes.
 [P][I]Note:  For the vehicle version of this item, see the vehicle of the same name.[i]</Description>
     <Source Page="53">No Disintegrations</Source>
@@ -9186,8 +9104,8 @@ The ability to turn a leap into an extended flight at will offers a tremendous l
     <Name>Holonet Homing Beacon</Name>
     <Description>[H3]Holonet Homing Beacon[h3]
 Often, a hunter needs to track prey across tremendous distances. Sometimes this could be to identify a base of operations, other times it might simply be a matter of tailing a lead to a mark when the actual target's location is unknown. A homing beacon is a device that tracks a starship or its passengers and cargo even after a hyperspace jump. Homing beacons depend upon using existing HoloNet transceivers to transmit their location back to their source. Consequently, their effectiveness is sharply limited when the vehicle travels to a system that is not connected to the HoloNet.
-[P]Homing beacons vary substantially in size and in their means of application. Smaller models can be thrown by hand or manually attached to their targets. Larger ones may be fired from a rifle or even a vehilce-mounted weapon to track a more distant target. The size of the homing beacon is most relevant in determining the likelihood that anyone on the target vessel might notice its presence.
-[P]As long as a homing beacon is functional, the person who activated it may trace the associated target across the galaxy. No tests are required, so long as the targets travels within known systems. A homing beacon remains functional indefinitely, unless it is deactivated.</Description>
+[P]Homing beacons vary substantially in size and in their means of application. Smaller models can be thrown by hand or manually attached to their targets. Larger ones may be fired from a rifle or even a vehicle-mounted weapon to track a more distant target. The size of the homing beacon is most relevant in determining the likelihood that anyone on the target vessel might notice its presence.
+[P]As long as a homing beacon is functional, the person who activated it may trace the associated target across the galaxy. No tests are required, so long as the target travels within known systems. A homing beacon remains functional indefinitely, unless it is deactivated.</Description>
     <Source Page="53">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -9312,7 +9230,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Key>BC7COCOON</Key>
     <Name>BC-7 Environmental Cocoon</Name>
     <Description>[H3]Czerka BC-7 Environmental Cocoon[h3]
-[P]Primarily intended for hunters and survivalists, and environment cocoon provides a secure space in an otherwise hostile locale. While it is designed to be portable, it can quickly inflate to become a small structure large enough for a single occupant. The field unit has dense insulation as well as its own climate-control system. This enables it to maintain a safe temperature for a single person. The cocoon is equipped with an filter that removes the worst of the particulate matter in the atmosphere.
+[P]Primarily intended for hunters and survivalists, an environmental cocoon provides a secure space in an otherwise hostile locale. While it is designed to be portable, it can quickly inflate to become a small structure large enough for a single occupant. The field unit has dense insulation as well as its own climate-control system. This enables it to maintain a safe temperature for a single person. The cocoon is equipped with a filter that removes the worst of the particulate matter in the atmosphere.
 [P]The cocoon reduces the difficulty of Resilience checks made to resist effects of extreme cold or heat by three. It also removes up to [SE] [SE] [SE] added to checks due to extreme heat or cold, for as long as the user remains within it.</Description>
     <Source Page="46">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
@@ -9338,7 +9256,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Description>
       [H3][I]BLO[i]-Series Non-Lethal Combat Droid[h3]
 [P]Seeing a rising need for crowd suppression and non-lethal enforcement techniques on the Core Worlds, Arakyd Industries briefly flirted with a droid designed to fill this admittedly small niche. The BL0-series combat droid was designed to neutralize opposition without undue injury, thus salvaging important witnesses for later interrogation. Due to their combat effectiveness, however, most BL0's were repurposed as security droids soon after their initial release.
-[P]This droid-scuttling forward on three squat, sturdy legs and with its robust hyperarticulated arms, an array of non-lethal countermeasures, and two long stun whips emerging from its shoulders-made for a terrifying sight to those familiar with it operations. There are still those who prefer the use of the BL0s to more conventional security or combat droids for a wide variety of reasons; especially in the more physical, hardscrabble negotiating environment of the Outer Rim.</Description>
+[P]This droid-scuttling forward on three squat, sturdy legs and with its robust hyperarticulated arms, an array of non-lethal countermeasures, and two long stun whips emerging from its shoulders-made for a terrifying sight to those familiar with its operations. There are still those who prefer the use of the BL0s to more conventional security or combat droids for a wide variety of reasons; especially in the more physical, hardscrabble negotiating environment of the Outer Rim.</Description>
     <Source Page="54">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -9384,7 +9302,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Sanctuary Holocron</Name>
     <Description>
       [H3][I]Sanctuary[i] Holocron[h3]
-[P]The holocron of the [I]Sanctuary[i] contains a mnemonic imprint of Val Isa's personality, manifests itself as a serene older human woman with a hint of impish humor about her. Of course, while very lifelike, the holocron's personality is not truly sentient, though it may be hard to tell this at times.
+[P]The holocron of the [I]Sanctuary[i] contains a mnemonic imprint of Val Isa's personality, recorded before her death. Her personality manifests itself as a serene older human woman with a hint of impish humor about her. Of course, while very lifelike, the holocron's personality is not truly sentient, though it may be hard to tell this at times.
 [P]The holocron of the [I]Sanctuary[i] is intended to be a tool the PCs can use to learn about the ancient Jedi Order. It is not an unlimited fount of information, of course, and its knowledge is several thousand years old (so it knows nothing of current events). However it contains a great deal of basic Jedi instruction, which allows the GM and players to explain how the PCs are able to learn Jedi Force practices and train with lightsabers, for example.
 [P]Each PC may count Discipline and Medicine as career skills as long as the group possesses the holocron.
 [P]When making a Knowledge (Lore) check to learn about the Jedi, the PC's may use the holocron to make an assisted check. The holocron counts as having three ranks in Knowledge (Lore).</Description>
@@ -10433,7 +10351,7 @@ Power fences are specialized shield emitters designed to provide perimeter prote
     <Name>Tool Belt</Name>
     <Description>
       [H3]Tool Belt[h3]
-Tool belts come in a variety of styles tailored to specific jobs. While they vary wildly in construction, size, and layout. they all have a number of basic features in common. Basic tool belts have multiple pouches, loops. hooks, and straps for carrying necessary tools and materials such as nails, bolts, gloves, tape, marking pens, and other items an Engineer needs at hand on a job site. Unlike bulky toolboxes, tool belts carry only the necessities. Users each typically have their own unique way of organizing their belt.
+Tool belts come in a variety of styles tailored to specific jobs. While they vary wildly in construction, size, and layout, they all have a number of basic features in common. Basic tool belts have multiple pouches, loops. hooks, and straps for carrying necessary tools and materials such as nails, bolts, gloves, tape, marking pens, and other items an Engineer needs at hand on a job site. Unlike bulky toolboxes, tool belts carry only the necessities. Users each typically have their own unique way of organizing their belt.
 [P]The wearer counts as having a tool kit. Once per encounter, the wearer may draw a tool from the tool belt as an incidental.</Description>
     <Source Page="45">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -11396,7 +11314,7 @@ The WSW Mk III "Harrier" is a combat and training remote produced by Cybot Galac
     <Name>DTS-series Dismantler Droid</Name>
     <Description>[H3]DTS-series Dismantler Droid[h3]
 Industrial Automaton's DTS-series dismantler droids are a common sight in the galaxy's ports and breaking yards. Dismantlers are big, surprisingly nimble droids roughly the size of a small starfighter or large airspeeder. They are shaped somewhat like a mushroom, with a large sensor-studded dome of a head perched on a thin cylindrical body. Four insect-like legs surround the base of the body, and two massive arms tipped with powerful crushing claws sprout from beneath the head. Designed to dismantle and recycle starships, these burly droids are equipped with a suite of destructive tools and weapons, backed with the strength to use them. To get around shipyards quickly, dismantlers are also equipped with a repulsorlift generator and numerous small thrusters that give them a surprising turn of speed.
-[P]While they are intelligent, they are remarkable single-minded and rarely interact with organic sentient beings other than to take orders, report, and ask for clarifications. This gives them a reputation as slow-witted and dull, which makes individuals unfamiliar with these droids tend to underestimate them.</Description>
+[P]While they are intelligent, they are remarkably single-minded and rarely interact with organic sentient beings other than to take orders, report, and ask for clarifications. This gives them a reputation as slow-witted and dull, which makes individuals unfamiliar with these droids tend to underestimate them.</Description>
     <Source Page="119">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
@@ -11464,7 +11382,7 @@ The ubiquitous MSE-series "mouse droids" are so common in the galaxy's starships
     <Name>Gravity Locks</Name>
     <Description>[H3]Gravity Locks[h3]
 These hovering, slablike devices are the latest attempts to thwart any would-be ship thieves. They are a recent Imperial invention, and can be found on most major planetary docking bays and shipyards as a response to growing resistance missions to acquire Imperial vessels. Once firmly clamped onto each leg of a ship’s landing gear, gravity locks use tractor beam technology to ensure a ship cannot take off. Their tough construction also means they are almost impossible to forcibly remove or even destroy without using weapons that will likely damage the ship itself.
-[P]A single gravity lock costs 7,400 credits (rarity 6). It has a silhouette of 3 and encumbrance of 14, and counts as having a soak value of 15 and a wound threshold of 10. If attacked, [TH][TH] or [DE] may be spent to inflict half of the damage it suffers onto a ship to which it has been attached. Entering the unique key code created when the lock is installed is the usual manner to deactivate the device, but it can be dismantled in a laborious process requiring an upgraded [B]Formidable ([CH][CH][DI][DI][DI]) Mechanics check[b] and eight hours of hard work. If the character has direct knowledge of a gravity lock’s inner workings, they check is not upgraded and the process takes half the time.
+[P]A single gravity lock costs 7,400 credits (rarity 6). It has a silhouette of 3 and encumbrance of 14, and counts as having a soak value of 15 and a wound threshold of 10. If attacked, [TH][TH] or [DE] may be spent to inflict half of the damage it suffers onto a ship to which it has been attached. Entering the unique key code created when the lock is installed is the usual manner to deactivate the device, but it can be dismantled in a laborious process requiring an upgraded [B]Formidable ([CH][CH][DI][DI][DI]) Mechanics check[b] and eight hours of hard work. If the character has direct knowledge of a gravity lock’s inner workings, the check is not upgraded and the process takes half the time.
 </Description>
     <Source Page="129">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
@@ -11535,7 +11453,7 @@ Affide crystals are commonly used as a last-resort "suicide pill" in the event o
     <Description>[H3]Cyanoxis D-570[h3]
 Cyanoxis D-570 was originally developed by Toxico as an all-purpose rodenticide. An extremely aggressive anticoagulant, D-570 works by weakening the walls of a creature's small blood vessels. This causes them to rupture, leading to internal hemorrhaging and eventually death. Thanks to its particular and well-guarded chemical makeup, D-570 works on numerous species throughout the galaxy, a very rare quality in a vermin-killing poison. Spies and assassins began to capitalize on this shared toxicity not long after the poison first appeared on the market. 
 [P]When used as an assassination tool, D-570 is typically administered through food and drink. Once ingested, the poison takes about a week to break down a sentient being's circulatory system and cause internal bleeding. During that time, the target is fatigued, bruises easily, and often bleeds slightly from the nose, mouth, or ears. Death typically results in ten days or fewer. Since death occurs so long after first exposure, it is often difficult to determine that D-570 was the cause of an individual's death. By the time a week has passed, there is little evidence left, and the assassin can be halfway across the galaxy and out of reach of punishment. 
-[P]One dose of Cyanoxis D-570 requires a character to make a [B]Hard ([DI][DI][DI]) Resilience check[b] to overcome. On a failed check, the poison inflicts 2 wounds and 2 strain immediately, plus 1 wound and I strain per day for ten days or until the target succumbs to death. Each [TH] generated inflicts I additional strain per day as internal blood loss takes its toll on the target's constitution. [DE] can be spent to increase the number of days the poison stays in effect by one.
+[P]One dose of Cyanoxis D-570 requires a character to make a [B]Hard ([DI][DI][DI]) Resilience check[b] to overcome. On a failed check, the poison inflicts 2 wounds and 2 strain immediately, plus 1 wound and I strain per day for ten days or until the target succumbs to death. Each [TH] generated inflicts 1 additional strain per day as internal blood loss takes its toll on the target's constitution. [DE] can be spent to increase the number of days the poison stays in effect by one.
 </Description>
     <Source Page="43">Cyphers and Masks</Source>
     <Custom>AddedItem</Custom>
@@ -11547,7 +11465,7 @@ Cyanoxis D-570 was originally developed by Toxico as an all-purpose rodenticide.
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>One dose of Cyanoxis D-570 requires a character to make a [B]Hard ([DI][DI][DI]) Resilience check[b] to overcome. On a failed check, the poison inflicts 2 wounds and 2 strain immediately, plus 1 wound and I strain per day for ten days or until the target succumbs to death. Each [TH] generated inflicts I additional strain per day as internal blood loss takes its toll on the target's constitution. [DE] can be spent to increase the number of days the poison stays in effect by one.</MiscDesc>
+        <MiscDesc>One dose of Cyanoxis D-570 requires a character to make a [B]Hard ([DI][DI][DI]) Resilience check[b] to overcome. On a failed check, the poison inflicts 2 wounds and 2 strain immediately, plus 1 wound and I strain per day for ten days or until the target succumbs to death. Each [TH] generated inflicts 1 additional strain per day as internal blood loss takes its toll on the target's constitution. [DE] can be spent to increase the number of days the poison stays in effect by one.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -12035,7 +11953,7 @@ Kelvarek Consolidated Arms' RLR-331 is a Clone Wars-era weapon popular with merc
     <Key>FINGERPRINTMASQUE</Key>
     <Name>Fingerprint Masque</Name>
     <Description>[H3]Fingerprint Masque[h3]
-Sold in sets tailored to most known galactic species, fingerprint masques are thin, liquid-crystal biochemical screens that fit on an individual's fingertips. Fingerprint masques create random fingerprint patterns and can mimic the prints of a specific individual Advanced models can even be embedded with synthetic DNA information to fool more sophisticated biometric scanners. 
+Sold in sets tailored to most known galactic species, fingerprint masques are thin, liquid-crystal biochemical screens that fit on an individual's fingertips. Fingerprint masques create random fingerprint patterns and can mimic the prints of a specific individual. Advanced models can even be embedded with synthetic DNA information to fool more sophisticated biometric scanners. 
 [P]Fingerprint masques let the user dupe most basic fingerprint scanners with an [B]Easy ([DI]) Cool[b] or [B]Deception check[b], though this can be increased to [B]Average ([DI][DI])[b] or [B]Hard ([DI][DI][DI])[b] for advanced scanners. A [B]Daunting ([DI][DI][DI][DI]) Perception check[b] is needed to detect the presence of a fingerprint masque on an individual.</Description>
     <Source Page="48">Cyphers and Masks</Source>
     <Custom>AddedItem</Custom>
@@ -12506,7 +12424,7 @@ Orb. The orbs are perfect obsidian spheres, roughly 15 centimeters across. Part 
     <Key>JT12JP</Key>
     <Name>JT-12C Jetpack</Name>
     <Description>[H3]JT-12C Jetpack[h3]
-hen clone troopers need to quickly deploy in the held, they are often equipped With the JT-I QC jetpack Merr-Sonn manufactures this modified version of the JT-12 for the Grand Army of the Republic. In addition to having Increased production, this variant is modified to Improve reliability for extended battlefield use. Intakes. turbines. and nozzles are hardened to reduce the need for field service. The modifications result in a slightly bulkier package. Consequently. soldiers may discard assigned units once they have  depleted their fuel cells, to reduce their encumbrance on the battlefield.[P]
+When clone troopers need to quickly deploy in the field, they are often equipped With the JT-I QC jetpack Merr-Sonn manufactures this modified version of the JT-12 for the Grand Army of the Republic. In addition to having Increased production, this variant is modified to Improve reliability for extended battlefield use. Intakes. turbines. and nozzles are hardened to reduce the need for field service. The modifications result in a slightly bulkier package. Consequently. soldiers may discard assigned units once they have  depleted their fuel cells, to reduce their encumbrance on the battlefield.[P]
 A JT-2C jetpack allows a person to function as a silhouette 1, speed 2, handling 0, system strain threshold 4 vehicle that can only operate in atmosphere and requires Piloting (Planetary) to operate.
 </Description>
     <Source Page="58">Collapse of the Republic</Source>
