@@ -2885,7 +2885,7 @@
   <Talent>
     <Key>DISBEH</Key>
     <Name>Distracting Behavior</Name>
-    <Description>Make a Distracting Behavior maneuver and suffer strain no greater than ranks in Cunning. Until the beginning of next turn, equal number of NPC's suffer [TH] on checks. Range increases with additional ranks.</Description>
+    <Description>Make a Distracting Behavior maneuver and suffer strain no greater than ranks in Cunning. Until the beginning of next turn, equal number of NPCs suffer [TH] on checks. Range increases with additional ranks.</Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -5789,7 +5789,7 @@
   <Talent>
     <Key>NOWYOUSEE</Key>
     <Name>Now You See Me</Name>
-    <Description>Once per session, take Now You See Me action. Make a [B]Hard ([DI][DI][DI]) Deception check[b] to make a number of NPC's equal to Cunning within medium range forget about character.</Description>
+    <Description>Once per session, take Now You See Me action. Make a [B]Hard ([DI][DI][DI]) Deception check[b] to make a number of NPCs equal to Cunning within medium range forget about character.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
