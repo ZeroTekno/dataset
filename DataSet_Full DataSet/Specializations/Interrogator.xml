@@ -96,7 +96,7 @@ A portion of the most critical military intelligence is never officially documen
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>RESISTQUEST</Key>
+        <Key>RESISTQUESTIMP</Key>
         <Key>INTIM</Key>
         <Key>KNOWWEAK</Key>
         <Key>KNOWWEAKIMP</Key>
