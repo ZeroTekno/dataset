@@ -8400,7 +8400,7 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>INKNOW</Key>
+    <Key>INSIDEKNOW</Key>
     <Name>Inside Knowledge</Name>
     <Description>Once per session while in an enemy facility or vessel, may perform the Inside Knowledge action, make a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. Character may then find a single personal scale item with a rarity no greater than Cunning plus 2 previously stashed here, or gain a narrative benefit.</Description>
     <Source Page="30">Cyphers and Masks</Source>
