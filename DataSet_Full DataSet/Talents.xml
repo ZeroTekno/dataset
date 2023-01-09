@@ -10223,4 +10223,25 @@
     <ActivationValue>taIncidental</ActivationValue>
     <Activation>Incidental</Activation>
   </Talent>
+  <Talent>
+    <Key>INSIDEKNOW</Key>
+    <Name>Inside Knowledge</Name>
+    <Description>Once per session while in an enemy facility or vessel, may perform the Inside Knowledge action, make a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. Character may then find a single personal scale item with a rarity no greater than Cunning plus 2 previously stashed here, or gain a narrative benefit.</Description>
+    <Sources>
+      <Source Page="30">Cyphers and Masks</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>INKNOW</Key>
+    <Name>In The Know</Name>
+    <Description>Remove [SE] up to ranks in In the Know from checks to get information from people or disseminate news. Minion NPCs do not realize this character's allegiance in interviews.</Description>
+    <Source Page="33">Desperate Allies</Source>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
 </Talents>
