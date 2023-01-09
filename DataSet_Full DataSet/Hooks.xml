@@ -812,51 +812,51 @@ Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. I
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
-    <Key>ARTISTS</Key>
-    <Name>Artists</Name>
-    <Description>[H4]Artists[h4]
+    <Key>ARTIST</Key>
+    <Name>Artist</Name>
+    <Description>[H4]Artist[h4]
 The Force grants people thoughts, visions, and emotions that some can't process, so they turn to other means to communicate these ideas. These artists often find themselves frustrated, driven to express an idea bigger than the artistic medium. While most artists create in order to find an audience, Mystic artists create to find answers. The answers can be personal, to seek enlightenment. The answers can be social, motivating others to be and do better. Because of art's emotional nature, however, artists can be tempted to the dark side. These artists use their work to shock, provoke, and upset-not to illustrate a greater truth, but to enhance those dark feelings, reinforcing hate and anger.</Description>
     <Source Page="10">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>AUGURS</Key>
-    <Name>Augurs</Name>
-    <Description>[H4]Augurs[h4]
+    <Key>AUGUR</Key>
+    <Name>Augur</Name>
+    <Description>[H4]Augur[h4]
 Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
 [P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivation. and violence for a means to understanding.</Description>
     <Source Page="12">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>CONARTISTS</Key>
-    <Name>Con Artists</Name>
-    <Description>[H4]Con Artists[h4]
+    <Key>CONARTIST</Key>
+    <Name>Con Artist</Name>
+    <Description>[H4]Con Artist[h4]
 Force sensitives don't necessarily need to come from a background of enlightenment and self-reflection. Especially during these tumultuous times, Mystics can emerge even from a history of gambling, trickery, and swindling. Some used their abilities to con the wealthy or powerful, rationalizing that two wrongs do make a right. Others pulled cons to make a living while doing what they could to mitigate harm. A few did their best to ignore their conscience. What united these con artists wasn't their criminal skills, but a nagging sense that life could offer something greater. While a criminal life doesn't usually lead to enlightenment, when these con artists sought  answers, they found them rather quickly. After all, they could recognize a good con, and when the Force turned out to be the real thing, they became ardent true believers.</Description>
     <Source Page="13">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>ECONOMISTS</Key>
-    <Name>Economists</Name>
-    <Description>[H4]Economists[h4]
+    <Key>ECONOMIST</Key>
+    <Name>Economist</Name>
+    <Description>[H4]Economist[h4]
 Economics is the study of resource allocation, but deep in its heart, it is the study of people and their choices. These proto-Mystics saw patterns, an invisible hand that moved resources to people in need, enriched planets, and connected disparate communities, defying the black-and-white morality of a profit spreadsheet. Cold economic theories and practices can clash with the warmth and light of the Force, however. If a policy can make five million people ten times as wealthy, but at the oppression of one million, could that be argued as good policy? What promotes a fall to the dark side more than turning suffering into mere numbers to be manipulated?</Description>
     <Source Page="13">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>POLITICALEXPERTS</Key>
-    <Name>Political Experts</Name>
-    <Description>[H4]Political Experts[h4]
+    <Key>POLITICALEXP</Key>
+    <Name>Political Expert</Name>
+    <Description>[H4]Political Expert[h4]
 Political experts found themselves able to see the bigger picture and used their time to change (or maintain) local governments. If only people acted this way, these experts thought, then these problems would be solved. The needs and desires of the community should influence the laws of the community, not vice versa. Emboldened or frustrated by the political process, these experts looked for something bigger and more meaningful, and awakened to the power of the Force.
 [P]Not all political awakenings come with enlightenment. Some political experts didn't learn to serve their communities, and instead tried to manipulate them by appealing to their base desires and fears, or punished them with restrictive laws. They sought to control others, a seductive desire from the dark side of the Force.</Description>
     <Source Page="14">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>RELIGIOUSECSTATICS</Key>
-    <Name>Religious Ecstatics</Name>
-    <Description>[H4]Religious Ecstatics[h4]
+    <Key>RELIGIOUSECSTATIC</Key>
+    <Name>Religious Ecstatic</Name>
+    <Description>[H4]Religious Ecstatic[h4]
 Ecstatics allowed the Force to flow through them uninhibited. These people interpreted the Force through their own religions, adding insights and ideas that for some illuminated, others perplexed, and a few terrified. This "madness" and speaking for the gods were actually their attempts to describe their thoughts and feelings of the Force. When they discovered the Force to be a universal power, they didn't abandon their religion, but simply found the truths within, forging a new yet still traditional path.
 [P]Allowing unchecked emotion to fuel religious fervor, however, can take an ecstatic toward the dark side. Mistaking fear and anger for religious insight can lead people toward victimizing innocents. Instead of listening to the Force, these ecstatics listened only to pain, rage, and terror, and then channeled it right back into the world.</Description>
     <Source Page="15">Unlimited Power</Source>
@@ -912,7 +912,7 @@ Freerunners turn movement into a highly skilled and specialized art form, using 
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>LAWAGENT</Key>
+    <Key>LAWENF</Key>
     <Name>Law Enforcement Agent</Name>
     <Description>[H4]Law Enforcement Agent[h4]
 Plenty of current and former law enforcement agents dislike Imperial laws and enforcement methods. Personnel who observe or are forced to participate in the Empire’s oppressive operations may become sympathizers or join the Rebellion outrights. Officers and detectives have many skills suitable for a Spy career.
@@ -924,7 +924,7 @@ Plenty of current and former law enforcement agents dislike Imperial laws and en
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>MAKEUPARTIST</Key>
+    <Key>MAKEUP</Key>
     <Name>Makeup Artist</Name>
     <Description>[H4]Makeup Artist[h4]
 Espionage field agents live in a world of deception and misdirection. Their true identities must be kept secret through technological, visual, audial means. It is perfectly acceptable to publicly wear helmets and masks in some parts of the galaxy, but that typically is too conspicuous when penetrating Imperial targets. While fake identities and falsified records can provide a degree of protection, sometimes it simply isn’t wise, or possible, for an agent’s true appearance to be seen.
@@ -956,7 +956,7 @@ Spies are frequently after information that isn’t simply stored in Imperial da
     <Custom>AddedItem</Custom>
   </Hook>
   <Hook>
-    <Key>REPOSPECIALIST</Key>
+    <Key>REPOSPEC</Key>
     <Name>Repo Specialist</Name>
     <Description>[H4]Repo Specialist[h4]
 Not all Spy recruits come from Honorable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
